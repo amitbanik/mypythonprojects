@@ -1,0 +1,828 @@
+ Emp ID,Employee Name,Gender,Location,In time,Pickup time,Remark,Out Time,Project Name,Office Location (EON/WE1),Transport SPOC Name ,Project Manager Name
+,,,,MON-30,,,,,,,
+5201061,Nancy Dass,Female,Hinjewadi Chowk,2:30 AM,1:15 AM,,11:30 AM,SGN - FBSS,WE1 ,Nancy Dass,Rohan Patel
+,,,,,,,,,,,
+1084576,Sharma Shagun,Female,Viman Nagar,3:00 AM,2:00 AM,,11:59 AM,Capital Market,WE1 - Pune,"Acharya, Archana","Bhide, Rahul"
+,,,,,,,,,,,
+104858,Ritesh Shinde,Male,Dhanori,3:00 AM,2:10 AM,,12:00 PM,PTDS Client services,WE1 ,Abhijit Atre,
+5548356,Patil Gajanan,Male,Vishrantwadi,3:00 AM,2:15 AM,,11:59 AM,PTDS_APAC Client Services,WE1 - Pune,"Kamble, Vinay","Bhide, Rahul"
+,,,,,,,,,,,
+140861,Shreya Naidu,Female,Undri,4:00 AM,12:00 AM,,1:00 PM,PTDS,WE1,Bandi,Rahul Bhide
+,,,,,,,,,,,
+142469,Radhika Dixit,Female,Nanded City,4:00 AM,3:05 AM,,1:00 PM,PTDS,WE1 ,Khushboo Bandi,Rahul Bhide
+,,,,,,,,,,,
+5556433,Singh Jaya,Female,Pimple Nilakh,4:00 AM,3:20 AM,,1:00 PM,PTDS_APAC Client Services,WE1 - Pune,"Singh, Jaya","Atre, Abhijit"
+,,,,,,,,,,,
+143858,Saurabh Shah,Male,Dehu Road,4:00 AM,3:00 AM,,1:00 PM,APAC Operations,WE1 ,Shantesh Kulkarni,Prashant Mane
+142988,Sonal Sharma,female,Thergaon,4:00 AM,3:15 AM,,1:00 PM,Omni,WE1 ,Shripad/Vinod Asalkar,Shishir Shambharkar
+,,,,,,,,,,,
+144836,Charu Saumya,Female,Handewadi Road,4:30 AM,3:00 AM,,1:30 PM,MarketMap,WE1 ,Aniket Gawade,Prashant Mane
+,,,,,,,,,,,
+e5555669,Amol Bhoj,Male,Wakad,4:30 AM,3:55 AM,,1:30 PM,PTDS,WE1,Akshay Sidhaye,Rahul Bhide
+,,,,,,,,,,,
+100826,Shripad Chandrayan,Male,Warje,5:00 AM,4:00 AM,,2:00 PM,MITS,WE1 - Pune,"Chandrayan, Shripad","Shambharkar, Shishir"
+,,,,,,,,,,,
+1095551,Rohit Desai,Male,Wadgaon Sheri,6:00 AM,5:10 AM,,3:00 PM,HRIS,WE1 ,Saurabh Phadke,Satish Patel
+,,,,,,,,,,,
+E145095,Poli Reddy,Male,Dhanori,6:00 AM,5:00 AM,,3:00 PM,Global Trading,WE1 ,Sagar Kute,Rupak Kulkarni
+,,,,,,,,,,,
+141672,Ishwar Patil,Male,Shivaji Nagar Gaothan,6:00 AM,5:20 AM,,3:00 PM,MITS,WE1 ,Aniket Sharma,Deepak Punjabi
+,,,,,,,,,,,
+1077250,Sandip Tambat,Male,Shivane,6:00 AM,5:00 AM,,03.00 PM,MITS,WE1 ,Aniket Sharma,Deepak Punjabi
+142190,Saurabh Honkhambe,Male,Pashan,6:00 AM,5:15 AM,,3:00 PM,Infinity,WE1 ,Saurabh Honkhambe,Archana Walimbe
+,,,,,,,,,,,
+E1077766,Deepak Saraf,Male,Hinjewadi,6:00 AM,5:15 AM,,3:00 PM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+145217,Ashok Koribilly,Male,Hinjewadi,6:00 AM,5:00 AM,,3:00 PM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+,,,,,,,,,,,
+142538,Puneet Shrivastav,Male,Nigdi Pradhikaran,6:00 AM,5:00 AM,,3:00 PM,GMI,WE1 ,Abhinav Agarwal,Gautam Vegad
+142012,Anthony Dsouza,Male,Walhekerwadi,6:00 AM,5:25 AM,,3:00 PM,SGN-FBSS ,WE1,Rakesh Jha,Sachin Gaikwad
+1078836,Jayesh Suryavanshi,Male,Chaphekar Chowk,6:00 AM,5:20 AM,,3:00 PM,MITS,WE1,Alkesh.Barapatre,Ankush Banasure
+,,,,,,,,,,,
+5514972,Sharanye N,Female,Thergaon,6:00 AM,5:20 AM,,3:00 PM,MITS,We1,Sagar Kute,Rupak Kulkarni
+,,,,,,,,,,,
+E5547535,Sagar Maliwal,Male,Wagholi,6:30 AM,5:00 AM,,3:00 PM,Statutory Financial Reporting,WE1 ,Aniket Joshi,Aniket Joshi
+142285,Shailesh Rajmane,Male,Wagholi,6:30 AM,5:10 AM,,3:30 PM,Front AI,WE1 ,Shailesh Rajmane,Sandeep Kumar Behera
+,,,,,,,,,,,
+5228513,Pranali Deshmukh,Female,Viman Nagar,6:30 AM,5:35 AM,,3:30 PM,HRIS,WE1 ,Saurabh Phadke,Satish Patel
+,,,,,,,,,,,
+1078096,Reja Manas,Male,Lohegaon,6:30 AM,5:00 AM,,3:30 PM,Mkt Map Energy,WE1 - Pune,"Reja, Manas","Bendre, Arti"
+134095,Manas Reja,Male,Lohegaon,6:30 AM,5:05 AM,,3:30 PM,Mkt Map Energy,WE1 ,Manas Reja,Arti Bendre
+,,,,,,,,,,,
+5551610,Songara Gourav,Male,Vishrantwadi,6:30 AM,5:30 AM,,3:30 PM,TCC,WE1 - Pune,"Chaudhari, Vivek","Kulkarni, Rupak"
+101444,Arti Kadam,Female,Vishrantwadi,6:30 AM,5:40 AM,,3:00 PM,GFO,WE1 ,Aparna Joshi,Vikrant Goley
+,,,,,,,,,,,
+142621,Pateria Ritul,Male,Hadapsar,6:30 AM,5:30 AM,,3:30 PM,MITS,WE1 - Pune,"Phatangare, Sandip","Vegad, Gautam"
+142802,Tiju Tom,Male,Keshav nagar,6:30 AM,5:40 AM,,3:30 PM,Investran,WE1 ,Xavier Pereira,Dwarkadhish Deshpande
+,,,,,,,,,,,
+5558985,Kamble Vinay,Male,Hadapsar,6:30 AM,5:35 AM,,3:30 PM,PTDS_APAC Client Services,WE1 - Pune,"Patil, Gajanan","Bhide, Rahul"
+145115,Fadnavis Harshad H,Male,Hadapsar,6:30 AM,5:40 AM,,3:30 PM,MITS,WE1 - Pune,"Phatangare, Sandip","Phatangare, Sandip"
+,,,,,,,,,,,
+101692,Abhijit Parik,Male,Bibwewadi,6:30 AM,5:30 AM,,3:00 PM,GFO,WE1,Vikrant Goley,Vikrant Goley
+101911,Mandar Bedekar,Male,Saharkar Nagar,6:30 AM,5:40 AM,,3:00 PM,GFO,WE1 ,Vikrant Goley,Vikrant Goley
+,,,,,,,,,,,
+1087602,Hinge Sonali,Female,Market Yard,6:30 AM,5:30 AM,,3:30 PM,Corporate Digital Solutions,WE1 - Pune,"Tiwari, Niraj","Ansari, Shamsparvez"
+1078518,Muley Chirag,Male,Sadashiv Peth,6:30 AM,5:45 AM,,3:00 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Lahori, Naresh"
+,,,,,,,,,,,
+144192,Nidhi Chauhan,Female,Katraj,6:30 AM,5:30 AM,,4:00 PM,Front AI,WE1 ,Sagar Kute,Kamal Mandhani
+144210,Sanjay Chawda,Male,Dhanakwadi,6:30 AM,5:30 AM,,3:30 PM,MITS,WE1 ,Sachin Laturkar,Pradeep Kumar Bejgamwar
+,,,,,,,,,,,
+E5551242,Vikas Singh,Male,Nanded City Road,6:30 AM,5:30 AM,,3:30 PM,IMS- GMI,WE1 ,Rahul Mane,Gautam Vegad
+,,,,,,,,,,,
+100774,Maria Anthony,Female,Undri,6:30 AM,5:30 AM,,3:00 PM,GFO,WE1 ,Aparna Joshi,Vikrant Goley
+102602,Muddassar Momin,Male,Nana Peth,6:30 AM,5:45 AM,,3:00 PM,GFO,WE1 ,Vikrant Goley,Vikrant Goley
+,,,,,,,,,,,
+101498,Pratik Kshirsagar,Male,Dhayari,6:30 AM,5:20 AM,,3:30 PM,Stream,Westend Centre One,Srinivas Reddy,Srinivas Reddy
+1078418,Indrayani Yadav,Female,Karve Nagar,6:30 AM,5:35 AM,,3:30 PM,CDS,WE1,Inayat Kazi ,Parag Ambulkar
+1078418,Yadav Indrayani B,Female,Karve Nagar,6:30 AM,5:40 AM,,3:30 PM,Corporate Digital Solutions,WE1 - Pune,"Kazi, Inayat","Ambulkar, Parag"
+,,,,,,,,,,,
+E5433709,Mangesh Darwhekar,Male,Shivane,6:30 AM,5:30 AM,,3:00 PM,Statutory Financial Reporting,WE1 ,Manasi Padhye,Manasi Padhye
+E1094765,Monika Mitkari,Female,Sus Gaon,6:30 AM,5:55 AM,,3:00 PM,Statutory Financial Reporting,WE1 ,Manasi Padhye,Manasi Padhye
+,,,,,,,,,,,
+101195,Aparna Joshi,Female,Kothrud,6:30 AM,5:10 AM,,3:00 PM,GFO,WE1 ,Vikrant Goley,Vikrant Goley
+E1091760,Priyanshi Gupta,Female,Kothrud,6:30 AM,5:15 AM,,3:00 PM,Statutory Financial Reporting,WE1 ,Aniket Joshi,Aniket Joshi
+E5545645,Komal Kadu,Female,Paud Road,6:30 AM,5:35 AM,,3:00 PM,Statutory Financial Reporting,WE1 ,Manasi Padhye,Manasi Padhye
+,,,,,,,,,,,
+E5555675,Harshdeep Kapoor,Male,Tathwade,6:30 AM,5:45 AM,,3:00 PM,Statutory Financial Reporting,WE1 ,Manasi Padhye,Manasi Padhye
+,,,,,,,,,,,
+5552165,Shivraj Chaudhari,Male,Nigdi,6:30 AM,5:30 AM,,3:30 PM,Intellimatch,WE1,Nisha Abraham,Kaustubh Vaitee
+E1095730,Shreyash Chhajed,Male,Akrudi,6:30 AM,5:35 AM,,3:00 PM,Statutory Financial Reporting,WE1 ,Aniket Joshi,Aniket Joshi
+142806,Pushkar Bapat,Male,Chaphekar Chowk,6:30 AM,5:50 AM,,3:30 PM,PTDS,WE1 ,Deepa Chindheliya,Vincent John
+,,,,,,,,,,,
+5558305,Bansi Krishna Rachamadugu,Male,Hinjewadi Phase 3,6:30 AM,5:30 AM,,3:30 PM,STeP,WE1 ,Shrideep Chougule,Virag Jain
+E5547536,Payal Adwani,Female,Wakad,6:30 AM,5:40 AM,,3:00 PM,Statutory Financial Reporting,WE1 ,Manasi Padhye,Manasi Padhye
+1078838,Marni Rajesh,Male,Wakad,6:30 AM,5:45 AM,,3:30 PM,STeP,WE1 - Pune,"Abraham, Nisha M","Vaitee, Kaustubh"
+,,,,,,,,,,,
+1084575,Bandi Khushboo,Female,Bhumker Chowk,6:30 AM,5:45 AM,,3:30 PM,PTDS_APAC Client Services,WE1 - Pune,"Sharma, Shagun","Bhide, Rahul"
+141004,Ashish Mandlik,Male,Vishal Nagar,6:30 AM,6:00 AM,,3:30 PM,MITS,WE1,Pushpendra Bajpai,Srinivas Reddy
+1086335,Chauhan Yagnesh,Male,Pimple Nilakh,6:30 AM,6:00 AM,,3:30 PM,MITS,WE1 - Pune,"Chaudhari, Vivek","Kulkarni, Rupak"
+,,,,,,,,,,,
+5313309,Sonal Rastogi,Female,Pimple Saudagar,6:30 AM,5:55 AM,,3:30 PM,Protegent,WE1 ,Sonal Rastogi,Gautam Vegad
+143640,Pragya Lohiya,Female,Pimple Saudagar,6:30 AM,5:50 AM,,3:30 PM,"Market Map, Global Trading",WE1 ,Manas Reja,Arti Bendre
+E5406276,Vaishali Singh,Female,Pimple Saudagar,6:30 AM,6:00 AM,,3:30 PM,Shared Services,WE1 ,Jaydeep Kunte,Jaydeep Kunte
+,,,,,,,,,,,
+1078427,Rawat Piyush,Male,Pimple Saudagar,6:30 AM,5:45 AM,,3:30 PM,Corporate Digital Solutions,WE1 - Pune,"Ambulkar, Parag","Ansari, Shamsparvez"
+142195,Chelliah A.,Male,Pimple Saudagar,6:30 AM,5:50 AM,,3:30PM,Avantgard,WE1,ShamsParvez Ansari,ShamsParvez Ansari
+5555628,Paritosh Gupta,Male,Pimple Saudagar,6:30 AM,5:55 AM,,3:30 PM,STeP,WE1 ,Shrideep Chougule,Virag Jain
+,,,,,,,,,,,
+1089244,Rokade Chirag,Male,Baner,6:30 AM,5:55 AM,,3:30 PM,Investran,WE1 - Pune,"Pereira, Xavier","Deshpande, Dwarkadhish"
+,,,,,,,,,,,
+Admin,Rebecca Franswah,Female,Baner,9:00 AM,8:20 AM,,6:00 PM,Admin,WE1 ,,
+,,,,,,,,,,,
+E1081926,Anuj Agarwal,Male,Viman Nagar,11:30 AM,10:30 AM,,11:30 PM,Statutory Financial Reporting,WE1 ,Gaurav Inani,Satish Kumar
+,,,,,,,,,,,
+142764,Arun Kshirsagar,Male,Wagholi,1:00 PM,11:30 AM,,10:00 PM,Global Trade - MarketMap,WE1 ,Santosh Surve,Mukundraj Kharosekar
+E1081173,Anish Anand,Male,Wagholi,1:00 PM,11:35 AM,,11:30 PM,Statutory Financial Reporting,WE1 ,Gaurav Inani,Gaurav Inani
+E5551824,Sayli Rathi,Female,Kharadi,1:00 PM,11:45 AM,,11:30 PM,Statutory Financial Reporting,WE1 ,Gaurav Inani,Gaurav Inani
+,,,,,,,,,,,
+E1078924,Madhukar Galpalli,Male,Keshav Nagar,1:00 PM,12:00 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+E5546791,Gauri Mantri,Female,Shivajinagar,1:00 PM,12:20 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+,,,,,,,,,,,
+E5558754,Nandan Singh,Male,Wadgaon Sheri,1:00 PM,11:45 AM,,11:30 PM,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+1077659,varun Anand,Male,Viman Nagar,1:00 PM,12:00 PM,,10:00 PM,MITS,WE1 ,Sachin Laturkar,Rajesh Junagade
+143280,Pankaj Yadav,Male,Viman Nagar,1:00 PM,12:00 PM,,10:00 PM,SSB,WE1,Nilesh Gore,Shekhar Muley
+,,,,,,,,,,,
+1078401,Patil Sunil (SG),Male,Dhanori,1:00 PM,12:10 PM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ambulkar, Parag","Ambulkar, Parag"
+5545027,Pawar Akash,Male,Vishrantwadi,1:00 PM,12:20 PM,,10:00 PM,Other,WE1 - Pune,"Pardeshi, Vinod","Peerzade, Suleman"
+,,,,,,,,,,,
+1092102,Vaghjipurwala Mohammed,Male,Kondhwa,1:00 PM,11:40 AM,,10:00 PM,GL Trade - Market Map,WE1 - Pune,"Kute, Sagar","Kulkarni, Rupak"
+104191,Ishtiyaque Noori,Male,Kondhwa ,1:00 PM,11:50 AM,,10:00 PM,Infinity,WE1 ,Saurabh Khanapure,Archana Walimbe
+,,,,,,,,,,,
+142087,Anirudh Paroch,Male,Undri,1:00 PM,11:30 AM,,10:00 PM,SunGard Shared Services,WE1,Ranadhir Ghosh,Ranadhir Ghosh
+101201,Vinita Kunder,Female,Mohammed Wadi,1:00 PM,11:35 AM,,10:00 PM,FAME - Financials,WE1 ,Harsh Gaurav,Rahul Kumthekar
+1084521,Geeta Prabhu,Female,Wanowrie,1:00 PM,11:45 AM,,10:00 PM,Reliance BPO,WE1 ,Siddharth Saple,Harshad 
+,,,,,,,,,,,
+E1077396,Neetesh Budholiya,Male,Furshungi,1:00 PM,11:30 AM,,10:00 PM,Omni,WE1 ,Vinod Asalkar,Shishir Shambharkar
+E5201102,Pritam Behera,Male,Hadapsar,1:00 PM,11:30 AM,,10:00 PM,MITS,WE1 ,Abhinav Agarwal,Abhinav Agarwal
+E1077405,Prashant Ghode,Male,Kalepadal,1:00 PM,11:40 AM,,10:00 PM,Omni,WE1 ,Vinod Asalkar,Shishir Shambharkar
+,,,,,,,,,,,
+142713,Aakash Panchratan,Male,Magarpatta City,1:00 PM,11:35 AM,,10:00 PM,SGN - FBSS,WE1,Nancy Dass,Rohan Patel
+111118,Ganesh Manian,Male,Magarpatta City,1:00 PM,11:40 AM,,10:00 PM,GFO,WE1 ,Swaroop Kulkarni,Satish Kumar
+101411,Ananda Agrawal,Male,Amanora Park,1:00 PM,11:45 AM,,10:00 PM,WealthStation Trading,WE1,Ananda Agrawal,Vishal Patil
+,,,,,,,,,,,
+1078410,Khanal Vipendra,Male,Manjari,1:00 PM,11:30 AM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ambulkar, Parag","Ambulkar, Parag"
+1078839,Jadhav Manasi,Female,Rasta Peth,1:00 PM,12:10 PM,,10:00 PM,STeP,WE1 - Pune,"Abraham, Nisha M","Vaitee, Kaustubh"
+,,,,,,,,,,,
+5460969,Joshi Saurabh,Male,Sukhsagar Nagar,1:00 PM,11:45 AM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ansari, Shamsparvez","Ansari, Shamsparvez"
+142698,Deepesh Bora,Male,Bibwewadi,1:00 PM,11:50 AM,,10:00 PM,IntelliMatch,WE1 ,Nisha Abraham,Kaustubh Vaitee
+5543856,Khaire Akshay,Male,Bibwewadi,1:00 PM,12:05 PM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ansari, Shamsparvez","Ansari, Shamsparvez"
+E5553853,Aditya Ponkshe,Male,Sadashiv Peth,1:00 PM,12:20 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Gaurav Inani,Gaurav Inani
+,,,,,,,,,,,
+100074,Ashok Sahane,Male,Bibwewadi,1:00 PM,11:45 AM,,10:00 PM,Adaptiv,WE1 ,Jaydeep Kunte,Tanmay Kamat
+E5551458,Modita Dhavale,Female,Bibwewadi,1:00 PM,11:55 AM,,11:30 PM,Statutory Financial Reporting,WE1 ,Gaurav Inani,Gaurav Inani
+E5553284,Pooja Bhide,Female,Saharkar Nagar,1:00 PM,12:00 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+,,,,,,,,,,,
+E5350267,Dhanashree Koshte,Female,Parvati (Mitramandal),1:00 PM,12:00 PM,,10:00 PM,WS-Trading,WE1 ,Dhanashree Koshte,Venugopal Devarakonda
+,,,,,,,,,,,
+111314,Akshay Ingle,Male,Ambegaon Pathar,1:00 PM,11:45 AM,,10:00 PM,SSB,WE1,Pankaj Yadav ,Shekhar Muley
+141988,Shobha Magar,Female,Ambegaon Pathar,1:00 PM,11:50 AM,,10:00 PM,TCC,WE1 ,Gaurav Bhansali,Swanand Kakade
+1077239,Namjoshi Asawari,Female,Warje,1:00 PM,12:10 PM,,10:00 PM,HRIS Help desk,WE1 - Pune,"Phadke, Saurabh D","Patel, Satish"
+1077890,Pandey Megha,Female,Pashan,1:00 PM,12:25 PM,,10:00 PM,STeP,WE1 - Pune,"Abraham, Nisha M","Vaitee, Kaustubh"
+,,,,,,,,,,,
+5548486,Sandeep Dani,Male,Ambegaon,1:00 PM,11:30 AM,,10:00 PM,Investone,WE1,,Furiya Shailenkumar
+1078877,Rohan Rohit,Male,Ambegaon,1:00 PM,11:35 AM,,10:00 PM,Org Admin,WE1 - Pune,"Chaurasia, Amit","Sheridan, Susan"
+e1095861,Animish Merukar ,Male,Katraj,1:00 PM,11:45 AM,,10:00 PM,APT,WE1 ,Ashish Merukar,Dwarka Deshpande
+1078421,Gaikwad Manish,Male,Katraj,1:00 PM,11:50 AM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ambulkar, Parag","Ambulkar, Parag"
+,,,,,,,,,,,
+100013,Harshal Khole,Male,Sahakarnagar-1,1:00 PM,11:30 AM,,10:00 PM,Brass,WE1 ,Yogesh Dakhave,Rohit Kulkarni
+E5559324,Milind Mathure,Male,Saharkar Nagar,1:00 PM,11:40 AM,,11:30 PM,Statutory Reporting,WE1 ,Anish Anand,Gaurav Inani
+E1095134,Yatin Parte,Male,Bibwewadi,1:00 PM,12:00 AM,,10:00 PM,MITS,WE1,Pushpendra Bajpai,Srinivas Reddy
+E5553695,Abhijeet Mundaye,Male,Lokmanya Nagar,1:00 PM,12:10 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Gaurav Inani,Gaurav Inani
+,,,,,,,,,,,
+1078404,Ambulkar Parag,Male,Kirkatwadi,1:00 PM,11:30 AM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ansari, Shamsparvez","Ansari, Shamsparvez"
+1077167,Patil Jaydeep,Male,Nanded City,1:00 PM,11:40 AM,,10:00 PM,Adaptiv,WE1 - Pune,"Kamat, Tanmay","Kamat, Tanmay"
+1077826,Hitesh Soni,Male,Vadgaon Khurd,1:00 PM,11:45 AM,,10:00 PM,Intrader,WE1 ,Saurabh Khanapure,Mahendra Gavhane
+,,,,,,,,,,,
+143235,Sushil Mastud,Male,Narhe,1:00 PM,11:45 AM,,10:00 PM,SunGard Shared Services,WE1 ,Ranadhir Ghosh,Ranadhir Ghosh
+141175,Nikhil Shihorkar,Male,Bavdhan,1:00 PM,12:15 PM,,10:00 PM,Other,WE1 ,Alkesh Barapatre,Dwarkadhish Deshpande
+1078879,Chaurasia Amit,Male,Bavdhan,1:00 PM,12:10 PM,,10:00 PM,Org Admin,WE1 - Pune,"Rohan, Rohit","Sheridan, Susan"
+,,,,,,,,,,,
+1090497,Deshpande Gajanan D,Male,Dhayari,1:00 PM,11:45 AM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ambulkar, Parag","Ambulkar, Parag"
+1077834,Prashant Bharambe,Male,Warje,1:00 PM,12:00 PM,,10:00 PM,MITS,WE1 ,Saurabh Khanapure,Mahendra Gavhane
+102286,Shekhar Muley,Male,Warje,1:00 PM,12:05 PM,,10:00 PM,SSB,WE1,Pankaj Yadav ,Shekhar Muley
+5545973,Ingole Dhirajkumar,Male,Warje,1:00 PM,12:10 PM,,10:00 PM,MITS,WE1 - Pune,"Vegad, Gautam","Phatangare, Sandip"
+,,,,,,,,,,,
+1078840,Alam Shams Tabrez,Male,Karve Nagar,1:00 PM,12:00 PM,,10:00 PM,STeP,WE1 - Pune,"Abraham, Nisha M","Vaitee, Kaustubh"
+E5553419,Abhishek Alse,Male,Karve Putala (Karve Statue),1:00 PM,12:05 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+E5555292,Dhwani Desai,Female,Nalstop,1:00 PM,12:20 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+,,,,,,,,,,,
+5460971,Sayyad Amir,Male,Kothrud,1:00 PM,12:00 PM,,10:00 PM,MITS,WE1 - Pune,"Agarwal, Abhinav","Vegad, Gautam"
+142086,Priyanka Prabhune,Female,Kothrud,1:00 PM,12:05 PM,,10:00PM,Infinity,WE1 ,Saurabh Honkhambe,Archana Walimbe
+102553,VIVEK BAPNA,Male,Sus Gaon,1:00 PM,12:15 PM,,10:00 PM,Adaptiv,WE1 ,Mahesh Parimi,Mahesh sairam
+,,,,,,,,,,,
+5378191,Sana Shaikh,Female,Bavdhan,1:00 PM,12:25 PM,,10:00 PM,HRIS,WE1 ,Saurabh Phadke,Satish Patel
+1078402,Sood Gaurav,Male,Pashan,1:00 PM,12:20 PM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ambulkar, Parag","Ambulkar, Parag"
+,,,,,,,,,,,
+5460982,Bhomale Suhas,Male,Dighi,1:00 PM,12:00 PM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ambulkar, Parag","Ambulkar, Parag"
+101513,Jayant Fulsundar,Male,Bhosari,1:00 PM,12:05 PM,,10:00 PM,TCC,WE1 ,Gaurav Bhansali,Dhanashri joshi
+E1078408,Shamsparvez Ansari,Male,Kasarwadi,1:00 PM,12:15 PM,,10:00 PM,Avantgard,WE1 ,Shamsparvez Ansari,Shamsparvez Ansari
+1088643,Mathew Seby K,Male,Dapodi,1:00 PM,12:30 PM,,10:00 PM,Global Plus (GDS),WE1 ,Sushant Patil,Sushant Patil
+,,,,,,,,,,,
+100788,Abhijit Chavan,Male,Walhekerwadi,1:00 PM,12:00 PM,,10:30 PM,Brass,WE1,Swanand Kakade,Rohit Kulkarni
+5551619,Terdal Mahesh,Male,Chinchwad,1:00 PM,12:05 PM,,10:00 PM,Global Trading - Asia PS,WE1 - Pune,"Tyagi, Sujit Kumar","Dixit, Nileshkumar"
+102565(E1077028),Sumit Mudliar,Male,Thergaon,1:00 PM,12:20 PM,,10:00 PM,Brass,WE1 ,Amit Agrawal,Amit Agrawal
+,,,,,,,,,,,
+E1095633,Amruta Patinge,Female,Moshi,1:00 PM,12:00 AM,,10:00 PM,Corporate Digital Solutions,WE1,Parag Ambulkar,Parag Ambulkar
+100329,Ashtaputre Shrikar,Male,Moshi,1:00 PM,12:05 PM,,10:00 PM,Brass,WE1 - Pune,"Kulkarni, Rohit","Limaye, Akshay"
+1077236,Pandit Neeta,Female,Moshi,1:00 PM,12:10 PM,,10:00 PM,HRIS Help desk,WE1 - Pune,"Phadke, Saurabh D","Patel, Satish"
+1086310,Abraham Nisha M,Female,Dapodi,1:00 PM,12:25 PM,,10:00 PM,STeP,WE1 - Pune,"Abraham, Nisha M","Vaitee, Kaustubh"
+,,,,,,,,,,,
+1077397,Mitra Kaveri P,Female,Chikhli,1:00 PM,12:00 PM,,10:00 PM,MITS,WE1 - Pune,"Laturkar, Sachin","Shambharkar, Shishir"
+1095633,Patinge Amruta V,Female,Chikhli,1:00 PM,12:05 PM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ambulkar, Parag","Ambulkar, Parag"
+1077397,Mitra Kaveri P,Female,Chikhli,1:00 PM,12:10 PM,,10:00 PM,MITS,WE1 - Pune,"Laturkar, Sachin","Shambharkar, Shishir"
+1078296,Patil Deepak,Male,NEW SANGVI,1:00 PM,12:25 PM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Ansari, Shamsparvez","Ansari, Shamsparvez"
+,,,,,,,,,,,
+E5553522,Pawan Kumar Gupta,Male,Hinjewadi Phase 1,1:00 PM,12:10 PM,,10:00 PM,Protegent - PTC,WE1 ,Manoj Jivtode,Kundan Nehete
+5285949,Rahul Chauhan,Male,Hinjewadi,1:00 PM,12:25 PM,,10:00 PM,SGN - FBSS,WE1 ,Nancy Dass,Rohan Patel
+E5548985,Manthan Shah,Male,Hinjewadi,1:00 PM,12:20 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+,,,,,,,,,,,
+1077208,Chaudhari Vivek,Male,Marunje,1:00 PM,12:00 PM,,10:00 PM,MITS,WE1 - Pune,"Chaudhari, Vivek","Kulkarni, Rupak"
+145132,Gaurav Patil,Male,Bhumker Chowk,1:00 PM,12:10 PM,,OFF,Corporate Digital Solutions,WE1 ,Shamsparvez Ansari,Shamsparvez Ansari
+5545102,"Trivedi, Prachi",Female,Bhumker Chowk,1:00 PM,12:15 PM,,10:00 PM,STeP,WE1 ,Gaurav Sharma,Kaustubh Vaitee
+,,,,,,,,,,,
+1077817,Avinash Shinde,Male,Ravet,1:00 PM,12:00 PM,,10:00 PM,Stream,Westend Centre One,Srinivas Reddy,Srinivas Reddy
+1078443,Prakash Aakanksha,Female,Ravet,1:00 PM,12:05 PM,,10:00 PM,MITS,WE1 - Pune,"Phatangare, Sandip","Phatangare, Sandip"
+5551074,Kesharwani Sourabh,Male,Dange chowk,1:00 PM,12:15 PM,,10:00 PM,GL Trade - Market Map,WE1 - Pune,"Tipnis, Manish","Tipnis, Manish"
+,,,,,,,,,,,
+1080653,Devkar Dattatray,Male,Dange chowk,1:00 PM,12:10 PM,,10:00 PM,Corporate Digital Solutions,WE1 - Pune,"Devkar, Dattatray","Patki, Sumedh"
+1077892,Prajakta Purnaye,Female,Thergaon,1:00 PM,12:20 PM,,10:00 PM,STeP,WE1 ,Shrideep Chougule,Virag Jain
+143091,Siddhant Jain,Male,Kaspate vasti,1:00 PM,12:25 PM,,10:00 PM,Getpaid,WE1 ,Sujith Pappachan,Uday Shete
+,,,,,,,,,,,
+145116,Sandeep Saini,Male,Pimple Nilakh,1:00 PM,12:20 PM,,10:00 PM,MITS,WE1 ,Sandip Phatangare,Gautam Vegad
+E142519,Yagnesh Chauhan,Male,Pimple Nilakh,1:00 PM,12:25 PM,,10:00 PM,MITS,WE1 ,Vivek Chaudhari,Rupak Kulkarni
+,,,,,,,,,,,
+5547047,Mohanty Mithun,Male,Kalewadi,1:00 PM,12:15 PM,,10:00 PM,Global Trading - Asia PS,WE1 - Pune,"Tyagi, Sujit Kumar","Dixit, Nileshkumar"
+1077591,Ankit Kumar Jain,Male,Kalewadi Phata,1:00 PM,12:20 PM,,10:00 PM,InvestOne,WE1,Swarali Khasnis,Swarali Khasnis
+5542832,Shinde Deepak,Male,Rahatani,1:00 PM,12:25 PM,,10:00 PM,Other,WE1 - Pune,"Agarwal, Abhinav","Vegad, Gautam"
+,,,,,,,,,,,
+5228544,Mali Dhananjay,Male,Wakad,1:00 PM,12:15 PM,,10:00 PM,MITS,WE1 - Pune,"Laturkar, Sachin","Junagade, Rajesh O"
+5343626,Gunjan Rai,Female,Wakad,1:00 PM,12:20 PM,,10:00 PM,Getpaid,WE1 ,Sujith Pappachan,Uday Shete
+1087791,Mohan Simi,Female,Wakad,1:00 PM,12:10 PM,,10:00 PM,STeP,WE1 - Pune,"Abraham, Nisha M","Vaitee, Kaustubh"
+141969,Ambalika Sisodia,Female,Wakad,1:00 PM,12:20 PM,,10:00 PM,Protegent-PTA Batch,WE1,Ambalika Sisodia,Manoj Jivtode
+,,,,,,,,,,,
+E5556992,Mahendra Paryani,Male,Pimple Saudagar,1:00 PM,12:10 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+5543508,Ujjwal Bhandari,Male,Pimple Saudagar,1:00 PM,12:15 PM,,10:00 PM,MITS,WE1 ,Sandip Phatangare,Gautam Vegad
+E5547993,Deval Pandya,Male,Pimple Saudagar,1:00 PM,12:20 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Anish Anand,Gaurav Inani
+126846,Manjeet Shrivastava,Male,Pimple Saudagar,1:00 PM,12:30 PM,,10:00 PM,TCC,WE1 ,Gaurav Bhansali,Parul Shah
+,,,,,,,,,,,
+e5433519,Sharvari Deshpande,Female,Pimple Gurav,1:00 PM,12:20 PM,,10:00 PM,Avantgard,WE1 ,Shamsparvez Ansari,Shamsparvez Ansari
+E5546816,Rasika Laddha,Female,Pimple Gurav,1:00 PM,12:25 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+5552056,Rathor Bhupendra,Male,Pimple Nilakh,1:00 PM,12:25 PM,,10:00 PM,MITS,WE1 - Pune,"Agarwal, Abhinav","Agarwal, Abhinav"
+,,,,,,,,,,,
+1078490,Ahire Vijay M,Male,Wagholi,1:30 PM,12:50 PM,,10:30 PM,MITS,WE1 - Pune,"Sharma, Aniket","Punjabi, Deepak N"
+145042,Suvam Chanda,Male,Wagholi,1:30 PM,12:55 PM,,10:30 PM,VPM,WE1 ,Prashant Saxena,Vaibhav Modak
+E1078490,Vijay Ahire,Male,Wagholi,1:30 PM,1:00 PM,,10:30 PM,MITS,WE1,Aniket Sharma,Deepak Punjabi
+,,,,,,,,,,,
+1078314,Bhatia Pankaj,Male,Wagholi,1:30 PM,12:00 PM,,10:30 PM,iWorks - BPO,WE1 - Pune,"Gawali, Pranil","Nadar, Purushottam"
+5313412,Asknani Komal,Female,Wagholi,1:30 PM,12:10 PM,,10:30 PM,WRA,WE1 - Pune,"Saple, Siddharth","Tandale, Rahul"
+1078299,Bhamra Amrit Kaur,Female,Aundh,1:00 PM,12:50 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+,,,,,,,,,,,
+127150/                            FIS e-id E1078102,PURNENDU MAITY,Male,Wadgaon Sheri,1:30 PM,12:20 PM,,10:30 PM,MarketMap Energy,WE1 ,MANAS REJA,ARTI BENDRE
+141629,Harshal Kalambe,Male,Wadgaon Sheri,1:30 PM,12:20 PM,,10:30 PM,MITS,WE1 ,Aniket Sharma,Deepak Punjabi
+1091695,George Abji,Male,Yerwada,1:30 PM,12:35 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+,,,,,,,,,,,
+1090874,Kadiwar Nayna P,Female,Dhanori,1:30 PM,12:35 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+1078181,Nadar Purushottam,Male,Dhanori,1:30 PM,12:30 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Lopez, Sebastian"
+1077943,Prasad Kulkarni,Male,Dhanori,1:30 PM,12:40 PM,,10:30 PM,VPM,WE1 ,Prashant Saxena,SaiKrishna MVV
+,,,,,,,,,,,
+1078744,Shambharkar Shishir,Male,Vishrantwadi,1:30 PM,1:00 PM,,10:30 PM,MITS,WE1 - Pune,"Chandrayan, Shripad","Junagade, Rajesh O"
+1092587,Nikam Hrishikesh,Male,Shivaji Nagar,1:30 PM,12:40 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+5545025,Pardeshi Neeraj,Male,Shivaji Nagar,1:30 PM,12:45 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+,,,,,,,,,,,
+103446,Patil Darshan M,Male,Pisoli,1:30 PM,3:40 PM,,10:30 PM,FAME - Financials,WE1 - Pune,"Tholar, VIKAS","Bendre, Arti"
+1077940,Lisham Popin,Male,"Kondhwa, Near Khadi Machine",1:30 PM,12:15 PM,,10:30 PM,VPM,WE1 - Pune,"Saxena, Prashant","Modak, Vaibhav"
+127081,Mohammad Husain,Male,Lulla Nagar,1:30 PM,12:25 PM,,10:30 PM,Investran,WE1 ,Alkesh Barapatre,"Vaibhav Modak 
+"
+,,,,,,,,,,,
+1095911,Lulla Naina S,Female,NIBM Road,1:30 PM,12:15 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+1094048,Ingole Gaurav,Male,Wanowrie,1:30 PM,12:15 PM,,10:30 PM,MITS,WE1 - Pune,"Sharma, Aniket","Punjabi, Deepak N"
+,,,,,,,,,,,
+5546067,Ganga Mahesh,Male,Kalepadal,1:30 PM,12:05 PM,,10:30 PM,MITS,WE1 ,Aniket Sharma,Gautam Vegad
+5550520,KooragayaluNagaraja Shashank,Male,Marunje,1:30 PM,12:40 PM,,10:30 PM,VPM,WE1 - Pune,"Saxena, Prashant","MVV, Sai Krishna"
+5548375,Jethmalani Sagar,Male,Ghorpadi Gaon,1:30 PM,12:25 PM,,10:30 PM,iWorks - BPO,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+,,,,,,,,,,,
+1094150,Korde Yogiraj,Male,Phursungi,1:30 PM,12:00 PM,,10:30 PM,VPM,WE1 - Pune,"Saxena, Prashant","Modak, Vaibhav"
+145082,Saxena Prashant,Male,Hadapsar,1:30 PM,12:10 PM,,10:30 PM,VPM,WE1 - Pune,"Saxena, Prashant","Modak, Vaibhav"
+5545024,Sourabh Joshi,Male,Hadapsar,1:30 PM,12:10 PM,,10:30 PM,VPM,WE1 ,Prashant Saxena,Vaibhav Modak
+E1089697,Amit Kumar Jha,Male,"Handewadi,Hadapsar",1:30 PM,8:30 PM,,10:30 PM,MITS,WE1,Aniket Sharma,Gautam Vegad
+,,,,,,,,,,,
+1078892,Chavan Heerapanna,Male,Katraj,1:30 PM,12:20 PM,,10:30 PM,WRA,WE1 - Pune,"Saple, Siddharth","Tandale, Rahul"
+5555285,Yewale Shraddha,Female,Dhanakwadi,1:30 PM,12:10 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+,,,,,,,,,,,
+5343104,Sangale Prachi,Female,Bibwewadi,1:30 PM,12:15 PM,,10:30 PM,WRA,WE1 - Pune,"Saple, Siddharth","Tandale, Rahul"
+1077252,Patil Prithviraj,Male,Parvati,1:30 PM,5:45 AM,,10:30 PM,MITS,WE1 - Pune,"Sharma, Aniket","Vegad, Gautam"
+5489041,Paraswar Aishwary,Male,Parvati,1:30 PM,12:25 PM,,10:30 PM,WRA,WE1 - Pune,"Saple, Siddharth","Prabhu, Geeta"
+,,,,,,,,,,,
+5489141,Rashmi Gupta,Female,Narhe,1:30 PM,12:30 PM,,10:30 PM,iWORKS BPaaS,WE1 ,Pranil Gawali,Pankaj Bhatia
+1077935,Swapnil Latne,Male,Narhe,1:30 PM,12:25 PM,,10:30 PM,VPM,WE1 ,Prashant Saxena,SaiKrishna MVV
+,,,,,,,,,,,
+1078313,Sudhir Awati,Male,Dhayari,1:30 PM,12:15 PM,,10:30 PM,iWORKS BPaaS,WE1 ,Pranil Gawali,Purushottam Nadar
+77777,Deorukhkar Harshal,Male,Dhayari,1:30 PM,12:20 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+5551858,Sawarkar Ankush,Male,Dhayari,1:30 PM,3:50 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Gaikwad, Tina"
+103498,Alok Karandikar,Male,Wadgaon BK,1:30 PM,12:25 PM,,10:30 PM,VPM,WE1,Prashant Saxena,MVV SaiKrishna
+,,,,,,,,,,,
+5522218,Tatkare Vipul,Male,Warje,1:30 PM,12:25 PM,,1:30 AM,GFO,WE1 - Pune,"Kanthi, Shivanand","Kulkarni, Swaroop"
+5285908,Badukale Shradha,Female,Warje,1:30 PM,12:30 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+5265479,Agrawal Sagar,Male,Karve Nagar,1:30 PM,12:35 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+,,,,,,,,,,,
+5515065,Pansare Nikhil,Male,Sinhagad Road,1:30 PM,12:15 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+5489142,Kadam2 Akshay,Male,Karve Nagar,1:30 PM,12:30 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+101594,Puneet Sinha,Male,Bavdhan,1:30 PM,12:40 PM,,10:30 PM,iWorks - BPO,WE1 ,Pranil Gawali,Purushottam Nadar
+,,,,,,,,,,,
+1086578,NikhileshKumar BVS,Male,Karve Nagar,1:30 PM,12:30 PM,,10:30 PM,MITS,WE1 ,Sachin Laturkar,Rajesh Junagade
+1088114,Mankari Vijaylaxmi,Female,Karve Nagar,1:30 PM,12:25 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+5544004,Kopila jaishy,Female,Nul stop,1:30 PM,12:30 PM,,10:30 PM,APT Client Support (Asset Management),WE1 ,Ranadhir Ghosh,Ranadhir Ghosh
+,,,,,,,,,,,
+1077275,Parakh Amol,Male,Kothrud,1:30 PM,12:40 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+1077284,Chavan Mukund V,Male,Kothrud,1:30 PM,12:45 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+5548373,Bafna Pooja,Female,Kothrud,1:30 PM,12:30 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+,,,,,,,,,,,
+1078493,Kumar Satish X0,Male,Sus Gaon,1:30 PM,5:30 AM,,10:30 PM,Investran,WE1 - Pune,"Barapatre, Alkesh D","Banasure, Ankush P"
+5555998,Kumar Gyanish,Male,Sus Gaon,1:30 PM,12:45 PM,,10:30 PM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+,,,,,,,,,,,
+5544883,Shukla Poonam,Female,Bavdhan,1:30 PM,12:45 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+143901,Gulhane Jayshri,Female,Pashan,1:30 PM,12:55 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+,,,,,,,,,,,
+5542653,Rahul Tandale,Male,Pradhikaran,1:30 PM,12:35 PM,,10:30 PM,Reliance BPO,WE1 ,Siddharth Saple,Rahul Tandale
+,,,,,,,,,,,
+5343946,Uttara Watve,Female,Chinchwad Gaon,1:30 PM,12:40 PM,,10:30 PM,Protegent PSV,WE1 ,Harshad Mujumdar,Lalit Maheshwari
+5313193,Nikrad Eshwar,Male,Chinchwad,1:30 PM,12:45 PM,,10:30 PM,WRA,WE1 - Pune,"Saple, Siddharth","Tandale, Rahul"
+1086619,Gawali Pranil,Male,Chinchwad,1:30 PM,12:00 AM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+,,,,,,,,,,,
+5201053,Niranjan Dive,Male,Thergaon,1:30 PM,12:55 PM,,10:30 PM,MITS,WE1 ,Sachin Laturkar,Rajesh Junagade
+103269,Karthikeyan Thever,Male,Kalewadi,1:30 PM,12:40 PM,,10:30 PM,MITS,WE1 ,Aniket Sharma,Gautam Vegad
+,,,,,,,,,,,
+5552921,Kher Saurabh,Male,Rahatani,1:30 PM,12:50 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+E1089341,Vivek Vijay Deshmukh,Male,Rahatani,1:30 PM,12:45 PM,,10:30 PM,VPM,WE1 ,Prashant Saxena,SaiKrishna MVV
+,,,,,,,,,,,
+5556001,Singh Atul,Male,Thergaon,1:30 PM,12:50 PM,,11:30 PM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+1078295,Bhattad Vaishali C,Female,Thergaon,1:30 PM,12:55 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+E5313413,Sneha Gawade,Female,Thergaon,1:30 PM,12:55 PM,,10:30 PM,Reliance BPO,WE1 ,Siddharth Saple,Rahul Tandale
+,,,,,,,,,,,
+1078464,Pereira Xavier,Male,Hinjawadi Phase 3,1:30 PM,12:30 PM,,10:30 PM,Investran,WE1 - Pune,"Pereira, Xavier","Deshpande, Dwarkadhish"
+5543762,Dhiraj Mahajan,Male,Bhumker Chowk,1:30 PM,12:50 PM,,10:30 PM,iWORKS BPaaS,WE1 ,Pranil Gawali,Puneet Sinha
+126570,Vinit Rokde,Male,Bhumker Chowk,1:30 PM,12:55 PM,,10:30 PM,Other,WE1 ,Ranadhir Ghosh,Ranadhir Ghosh
+1077285,Chavan Pratik,Male,Bhumker Chowk,1:30 PM,12:45 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+,,,,,,,,,,,
+5558842,Saluja Rahul,Male,Wakad,1:30 PM,12:30 PM,,10:30 PM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+1089245,Aniruddha Selokar,Male,WAKAD,1:30 PM,12:35 PM,,10:30 PM,MITS,WE1,Sachin Laturkar,Rajesh Junagade
+1077660,Anoop Deuskar,Male,WAKAD,1:30 PM,12:40 PM,,10:30 PM,MITS,WE1,Sachin Laturkar,Rajesh Junagade
+5312922,Shaw Sunny,Male,WAKAD,1:30 PM,12:45 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Peter, Abraham"
+,,,,,,,,,,,
+5546771,Jethwani Kamlesh,Male,Wakad,1:30 PM,12:00 AM,,10:30 PM,Global Plus,WE1 - Pune,"Laturkar, Sachin","Bejgamwar, Pradeep Kumar"
+1077938,Pradip Shinde,Male,Wakad,1:30 PM,12:45 PM,,10:30 PM,VPM,WE1 ,Prashant Saxena,Vaibhav Modak
+5548964,Jain Surbhi,Female,Wakad,1:30 PM,12:50 PM,,10:30 PM,VPM,WE1 - Pune,"Saxena, Prashant","MVV, Sai Krishna"
+5544723,Nisha Barethiya,Female,Wakad,1:30 PM,12:45 PM,,10:30 PM,MITS,WE1 ,Gautam Vegad,Gautam Vegad
+,,,,,,,,,,,
+5552922,Ankit Chaubey,Male,Pimple Nilakh,1:30 PM,12:45 PM,,10:30 PM,Asset Management - AA360,WE1,Gyaneshwar Nandanwar,Gyaneshwar Nandanwar
+,,,,,,,,,,,
+1078311,Anand Ruma,Female,Dehu Road,1:30 PM,12:30 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+E5543257,Shantaram Nagarkar,Male,Dehu Road,1:30 PM,12:35 PM,,10:30 PM,Reliance BPO,WE1 ,Siddharth Saple,Rahul Tandale
+E5312848,Soneksh Chauhan,Male,Dehu Road,1:30 PM,12:40 PM,,10:30 PM,Reliance BPO,WE1 ,Siddharth Saple,Rahul Tandale
+,,,,,,,,,,,
+1077941,Rahane Atul R,Male,Dighi,1:30 PM,12:35 PM,,10:30 PM,VPM,WE1 - Pune,"Saxena, Prashant","Modak, Vaibhav"
+1094700,Dongre Chetan,Male,Bhosari,1:30 PM,12:40 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Gaikwad, Tina"
+5343494,Chougule Anant,Male,Bhosari,1:30 PM,12:45 PM,,10:30 PM,WRA,WE1 - Pune,"Saple, Siddharth","Tandale, Rahul"
+,,,,,,,,,,,
+e1078098,Mahendra Rane,Male,Moshi,1:30 PM,12:30 PM,,10:30 PM,MarketMap Energy,WE1,Manas Reja,Arti Bendre
+112017,Lahuraj Wadkar,Male,Moshi,1:30 PM,12:35 PM,,10:30 PM,TCC,WE1 ,Gaurav Bhansali,Dhanashri joshi
+1077558,George Mary D,Female,Moshi,1:30 PM,12:40 PM,,11:30 PM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+,,,,,,,,,,,
+143209,Sabnani Deepak,Male,Pimpri,1:30 PM,12:35 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+145146,Aarti Kalal,Female,Pimpri,1:30 PM,12:35 PM,,10:30 PM,iWORKS BPaaS,WE1,Pranil Gawali,Puneet Sinha
+5546519,Shushma Ragi,Female,New Sangvi,1:30 PM,12:55 PM,,10:30 PM,Reliance BPO,WE1 ,Siddharth Saple,Rahul Tandale
+1094333,Mane Shobhiwant G,Male,NEW SANGVI,1:30 PM,12:55 PM,,10:30 PM,Corporate Digital Solutions,WE1 - Pune,"Devkar, Dattatray","Patki, Sumedh"
+,,,,,,,,,,,
+5553883,Garmode Shivraj,Male,Chikhli,1:30 PM,12:30 PM,,10:30 PM,Relius,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+5553354,Handibag Shrikishan,Male,Chikhli,1:30 PM,12:35 PM,,10:30 PM,WRA,WE1 - Pune,"Saple, Siddharth","Tandale, Rahul"
+5546767,Borse Vishal,Male,New Sangvi,1:30 PM,12:45 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+5292985,Runwal Gautam,Male,New Sangvi,1:30 PM,12:55 PM,,10:30 PM,WRA,WE1 - Pune,"Saple, Siddharth","Tandale, Rahul"
+,,,,,,,,,,,
+5556124,Chonde Umesh,Male,Pimple Saudagar,1:30 PM,12:40 PM,,10:30 PM,MITS,WE1 - Pune,"Laturkar, Sachin","Bejgamwar, Pradeep Kumar"
+5542256,Nandekar Vivek,Male,Pimple Saudagar,1:30 PM,12:45 PM,,10:30 PM,MITS,WE1 - Pune,"Rastogi, Sonal","Vegad, Gautam"
+5549423,Sourabh Raj,Male,Pimple Saudagar,1:30 PM,12:50 PM,,10:30 PM,M-Ops,WE1 ,Amol Parakh,Ajay Bhat
+1092423,Tabish Ahmad,Male,Pimple Saudagar,1:30 PM,12:55 PM,,10:30 PM,VPM,WE1 ,Prashant Saxena,Vaibhav Modak
+,,,,,,,,,,,
+1078745,Laturkar Sachin,Male,Balewadi,1:30 PM,12:50 PM,,10:30 PM,MITS,WE1 - Pune,"Laturkar, Sachin","Junagade, Rajesh O"
+5547754,Anand Kumar Jaiswal,Male,Balewadi,1:30 PM,12:55 PM,,10:30 PM,VPM,WE1,Prashant Saxena,SaiKrishna MVV
+145161,Shiwani Malviya Rai,Female,Balewadi,1:30 PM,1:00 PM,,10:30 PM,VPM,WE1 ,Prashant Saxena,SaiKrishna MVV
+,,,,,,,,,,,
+1077937,Chauhan Prasoon,Male,Baner,1:30 PM,12:50 PM,,10:30 PM,VPM,WE1 - Pune,"Saxena, Prashant","Modak, Vaibhav"
+1086620,Gupta Priyam,Female,Baner,1:30 PM,12:50 PM,,10:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+5548234,Sayali Deshmukh,Female,Baner,1:30 PM,12:00 PM,,10:30 PM,M-Ops,WE1 ,Amol Parakh,Ajay  Bhat
+,,,,,,,,,,,
+e5548227,Nitish Kashyap,Male,Baner,1:30 PM,12:50 PM,,10:30 PM,Marketing Operations,WE1 ,Amol Parakh,Tina Gaikwad
+1095322,Bajari Hitesh,Male,Baner,1:30 PM,12:55 PM,,10:30 PM,VPM,WE1 - Pune,"Saxena, Prashant","MVV, Sai Krishna"
+1078856,Tulankar Amit,Male,Baner,1:30 PM,1:00 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+5548227,Kashyap Nitish,Male,Baner,1:30 PM,1:00 PM,,10:30 PM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+,,,,,,,,,,,
+E1077779,Rukhmangad Agrawal,Male,Wagholi,2:00 PM,12:30 PM,,11:00 PM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+5548820,Nandi Partha,Male,Wagholi,2:00 PM,12:35 PM,,11:00 PM,MITS,WE1 - Pune,"Chaudhari, Vivek","Kulkarni, Rupak"
+144160,Parag Arote,Male,Chandan Nagar,2:00 PM,12:55 PM,,11:00 PM,Avantgard,WE3,ShamsParvez Ansari,ShamsParvez Ansari
+,,,,,,,,,,,
+E142832,Sonam Wajge ,Female,Pimpri,2:00 PM,1:00 PM,,11:00 PM,Avantgard,WE1 ,Indrayani Yadav,ShamsParvez Ansari
+E1077218,Rugved Patil,Male,Rahatani,2:00 PM,1:10 PM,,11:00 PM,MITS,WE1 ,Vivek Chaudhari,Rupak Kulkarni
+,,,,,,,,,,,
+1077665,Sancheti Suneet,Male,Hadapsar,2:00 PM,11:50 AM,,11:00 PM,MITS,WE1 - Pune,"Laturkar, Sachin","Junagade, Rajesh O"
+5549271,Abhijit Das,Male,MANJARI ROAD,2:00 PM,12:00 PM,,1:30 AM,RELIUS BPASS,WE1,Ganesh Giri,Juliet Kishore
+,,,,,,,,,,,
+1078417,Kurhade Sheetal,Female,Narayan Peth,2:00 PM,1:00 PM,,11:00 PM,Corporate Digital Solutions,WE1 - Pune,"Kazi, Inayat","Ambulkar, Parag"
+,,,,,,,,,,,
+E5542255,Ankush Harde,Male,Warje,2:00 PM,12:50 PM,,11:00 PM,Global Trading,WE1,Sagar Kute,Rupak Kulkarni
+,,,,,,,,,,,
+5542874,Shailendra Rana,Male,Bavdhan,2:00 PM,1:20 PM,,11:00 PM,MITS,WE1 ,Abhinav Agarwal,Gautam Vegad
+1078419,Nalawade Arvind,Male,Bavdhan,2:00 PM,1:25 PM,,11:00 PM,Corporate Digital Solutions,WE1 - Pune,"Kazi, Inayat","Ambulkar, Parag"
+ 1078419, Arvind Nalawade,Male,Bavdhan,2:00 PM,1:30 PM,,11:00 PM,CDS,WE1,Inayat Kazi,Parag Ambulkar
+,,,,,,,,,,,
+5236309,Chandrakar Ankush,Male,Pimple Nilakh,2:00 PM,1:30 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+,,,,,,,,,,,
+1077777,Nayak Lalit,Male,Dehu Road,2:00 PM,1:00 PM,,11:00 PM,MITS,WE1 - Pune,"Kute, Sagar","Kulkarni, Rupak"
+E45812,Vrushali Badgujar,Female,Pimple Saudagar,2:00 PM,1:10 PM,,11:00 PM,Global Trading,WE1 ,Sagar Kute,Rupak Kulkarni
+,,,,,,,,,,,
+145092,Anand Narode,Male,Wagholi,3:00 PM,1:30 PM,,11:30 PM,GFO,WE1,Niharika Bhakta,Swaroop Kulkarni
+1095727,Narode Anand A,Male,Wagholi,3:00 PM,1:35 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+5228783,Jadhav Hemant,Male,Wagholi,3:00 PM,1:40 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+5552845,Mahesh Pandit,Male,Wagholi,3:00 PM,1:45 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Swaroop Kulkarni
+,,,,,,,,,,,
+E5558832,Sumit Kolhe,Male,Kharadi,3:00 PM,1:30 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Anish Anand,Gaurav Inani
+101251,Kanthi Shivanand,Male,Kharadi,3:00 PM,1:35 PM,,11:30 PM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+E5551461,Kamal Khandelwal,Male,Kharadi,3:00 PM,1:40 PM,,11:30 PM,Statutory Financial Reporting,WE1 ,Gaurav Inani,Gaurav Inani
+141782,Shekhar Auti,Male,Wadgaon Sheri,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+,,,,,,,,,,,
+5488552,Shinde Pranita,Female,Yerwada,3:00 PM,2:00 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+1090271,Menon Rajesh,Male,Mula Road,3:00 PM,2:15 PM,,11:30 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Gada, Chintan"
+,,,,,,,,,,,
+5548355,Shah Amit,Male,Dhanori  Jakat Naka,3:00 PM,1:40 PM,,11:30 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Kumar, Satish G"
+1078895,John Verghese,Male,Dhanori,3:00 PM,1:45 PM,,1:30 AM,GFO,WE1 - Pune,"Kanthi, Shivanand","Kulkarni, Swaroop"
+100965,Verghese John,Male,Dhanori,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Swaroop Kulkarni
+101460,Milind Manekar,Male,Dhanori,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Swaroop Kulkarni
+,,,,,,,,,,,
+5201138,Prasad Pawar,Male,Dhanori,3:00 PM,2:00 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Swaroop Kulkarni
+5258503,Jagruti Goswami,Female,Vishrantwadi,3:00 PM,2:05 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Shreyas Nagar
+5543113,Khairnar Lalit,Male,Bopodi,3:00 PM,2:25 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+,,,,,,,,,,,
+144731,Nitin Kulkarni,Male,Manjari,3:00 PM,1:35 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+,,,,,,,,,,,
+5556536,Choubey Himanshi,Female,Hadapsar,3:00 PM,1:35 PM,,1:30 AM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+5547528,Bharmal Jennifer,Female,Pune Station,3:00 PM,2:10 PM,,11:30 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Lahori, Naresh"
+,,,,,,,,,,,
+5549819,Thombare Amarja,Female,Hadapsar,3:00 PM,1:40 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+1094344,Kulkarni Nitin R,Male,Hadapsar,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Peter, Abraham"
+5558605,Chetan Jadhav,Male,Sasane Nagar,3:00 PM,1:45 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+103451,Niharika Bhakta,Female,Sasane Nagar,3:00 PM,5:40 AM,,1:30 AM,GFO,WE1 ,Shivanand Kanthi,Swaroop Kulkarni
+,,,,,,,,,,,
+5545104,Sengupta Rishi,Male,Handewadi,3:00 PM,1:35 PM,,11:30 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Lahori, Naresh"
+101166,Pragati Rathi,Female,Handewadi Road,3:00 PM,1:30 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Swaroop Kulkarni
+1081377,Rathi Pragati,Female,Handewadi,3:00 PM,1:40 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+,,,,,,,,,,,
+5228744,Pushkar Lahhotii,Male,Kondhwa-Near Khadi Machine,3:00 PM,1:30 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Naresh Lahori
+E1090504,Faizan Shaikh,Male,Kondhwa Khurd,3:00 PM,1:40 PM,,12:00 AM,Omni,WE1 ,Vinod Asalkar,Shishir Shambharkar
+5549616,Rithe Rohan,Male,Kondhwa,3:00 PM,1:45 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+,,,,,,,,,,,
+45813,Shetty Soumya,Female,Undri,3:00 PM,1:30 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+1090629,Shetty Guruprasad,Male,Undri,3:00 PM,1:35 PM,,1:30 AM,GFO,WE1 - Pune,"Kanthi, Shivanand","Peter, Abraham"
+45972,Anup Singh,Male,Undri,3:00 PM,1:40 PM,,11:30 PM,GFO,WE1,Shivanand Kanthi,Abraham Peter
+,,,,,,,,,,,
+5553764,Kadgi Vijay,Male,GANJ PETH POLICE CHOWKEY,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+5542286,Kale Yohan,Male,Somwar peth,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+5487588,Rishabh Srivastava,Male,"Aundh ITI Road, Pune",3:00 PM,2:30 PM,,12:00 AM,Capital Market,WE1,Hetal Petigara,Hetal Petigara
+,,,,,,,,,,,
+5551032,Gadkari Shirish,Male,Dhanakwadi,3:00 PM,1:40 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+143202,Chetan Pimpalgaonkar,Male,Dhanakwadi,3:00 PM,1:45 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+5371169,Deshpande2 Abhijeet,Male,Ambegaon,3:00 PM,1:55 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+1078328,Tumari Prasad S,Male,Ambegaon,3:00 PM,2:00 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+,,,,,,,,,,,
+45818,Prabhune Dhananjay,Male,Bibwewadi,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+5201057,Surpuriya Anup,Male,Bibwewadi,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+5488934,Thakur2 Gaurav,Male,Swargate,3:00 PM,2:05 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+1078980,Chintan Gada,Male,Deccan,3:00 PM,2:20 PM,,11:30 PM,GFO,WE1 ,Sumankumar Kacham,Chintan Gada
+,,,,,,,,,,,
+1090276,Shete Ravi V,Male,Ambegaon,3:00 PM,1:45 PM,,1:30 AM,GFO,WE1 - Pune,"Kanthi, Shivanand","Peter, Abraham"
+5258162,Kiran Kadam,Male,Ambegaon Bk,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Satish Kumar
+143485,Ravi Shete,Male,Ambegaon BK,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+,,,,,,,,,,,
+141869,Prasad Tumari,Male,Katraj,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Swaroop Kulkarni
+1092273,Rajusth Eena,Female,Katraj,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+144076,Eena Rajusth,Female,Katraj,3:00 PM,2:00 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+1078294,Mundhekar Himani,Female,Katraj,3:00 PM,2:00 PM,,11:30 PM,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+,,,,,,,,,,,
+145158,Gyanchandani Ashwin,Male,Market Yard,3:00 PM,1:50 PM,,11:30 PM,WRA,WE1 - Pune,"Kanthi, Shivanand","Manian, Ganesh"
+5549818,Dhananjay Kadam,Male,Sadashiv Peth,3:00 PM,2:00 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+5545091,Kauchali Rukhsar,Female,Bhawani Peth,3:00 PM,2:10 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+,,,,,,,,,,,
+1095643,Khoptikar Sarang,Male,Sinhagad Road,3:00 PM,1:45 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+125175,Lawalekar Amit,Male,Sinhagad Road,3:00 PM,1:50 PM,,1:30 AM,GFO,WE1 - Pune,"Kanthi, Shivanand","Kulkarni, Swaroop"
+5201181,Ravindra Varpe,Male,Sinhagad Road,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+,,,,,,,,,,,
+5542260,Varun Mirgal,Male,Narhe,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+5545090,Kanade Rushikesh,Male,Nanded City,3:00 PM,2:05 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+145094,Sarang Khoptikar,Male,Sinhagad Road,3:00 PM,2:15 PM,,1:30 AM,GFO,WE1 ,Niharika Bhakta,Swaroop Kulkarni
+1078655,Sameer Shinde,Male,Sinhagad College Road,3:00 PM,2:20 PM,,12:00 AM,SSF,WE1,Hetal Petigara,Vinayak Shelke
+,,,,,,,,,,,
+5551831,Agalgaonkar Sourabh,Male,Dhayari,3:00 PM,1:45 PM,,11:30 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Lahori, Naresh"
+143313,Vaibhav Zawar,Male,Dhayari,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+5549820,Deshpande Akshada,Female,Dhayari,3:00 PM,3:55 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+,,,,,,,,,,,
+5201081,Shashank Kawtakwar,Male,Warje,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+100911,Swaroop Kulkarni,Male,Warje,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Ganesh Manian
+5312944,Shefali Singh,Female,Warje,3:00 PM,2:00 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+,,,,,,,,,,,
+143204,Deo Mugdha,Female,Karve Nagar,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Gada, Chintan"
+5488557,Kulkarni Gandhali,Female,Aundh,3:00 PM,2:30 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+5426605,Pawan Jaiswal,Male,Aundh,3:00 PM,2:35 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Swaroop Kulkarni
+,,,,,,,,,,,
+1091109,Vartak Ninad S,Male,Kothrud,3:00 PM,2:00 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+1077741,Ashish Gokhale,Male,Kothrud,3:00 PM,2:05 PM,,12:00 AM,SSF,WE1 ,Hetal Petigara,Vinayak Shelke
+1091448,Umap Rupesh W,Male,Kothrud,3:00 PM,2:10 PM,,11:30 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Gada, Chintan"
+143684,Ninad Vartak,Male,Kothrud,3:00 PM,2:15 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Swaroop Kulkarni
+,,,,,,,,,,,
+1078578,Patel Kamlesh,Male,Bavdhan,3:00 PM,2:10 PM,,11:30 PM,GFO,WE1 - Pune,"Bhakta, Niharika","Peter, Abraham"
+126447,Kamlesh Patel,Male,Bavdhan,3:00 PM,2:15 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Abraham Peter
+100903,Harshad Mujumdar,Male,Bavdhan,3:00 PM,2:20 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Naresh Lahori
+5433547,Sharma2 Sagar,Male,Pashan,3:00 PM,2:15 PM,,11:59 PM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+,,,,,,,,,,,
+5377855,Dias Cyril,Male,Nigdi,3:00 PM,2:00 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+5312945,Mandal Priyanka,Female,Akrudi,3:00 PM,2:05 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+,,,,,,,,,,,
+1077738,Paresh Bhole,Male,Rahatani,3:00 PM,2:30 PM,,12:00 AM,SSF,WE1 ,Hetal Petigara,Vinayak Shelke
+5343106,Vinchurkar Priya,Female,Rahatani,3:00 PM,2:35 PM,,1:30 AM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+144073,Supriya Karankal,Female,Rahatani,3:00 PM,2:25 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+144801,Rinky Jeswani,Female,Kalewadi,3:00 PM,2:15 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Shreyas Nagar
+,,,,,,,,,,,
+1081382,Sukhija Manish,Male,Kalewadi,3:00 PM,2:05 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Manian, Ganesh"
+1094336,Prasad Abhishek,Male,Kalewadi,3:00 PM,2:10 PM,,11:30 PM,GFO,WE1 - Pune,"Sukhija, Manish","Peter, Abraham"
+144717,Abhishek Prasad,Male,Kalewadi,3:00 PM,2:15 PM,,11:30 PM,GFO,WE1,Shivanand Kanthi,Abraham Peter
+101062,Abraham Peter,Male,Kalewadi Phata,3:00 PM,2:20 PM,,11:30 PM,GFO,WE1,Shivanand Kanthi,Ganesh Manian
+,,,,,,,,,,,
+5546321,Mehetre Hrishikesh,Male,Pimpri Colony,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+5228087,Pradeep Sahasrabudhe,Male,"Vallabh Nagar,Pimpri",3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Satish Kumar
+142154,rokade vishal a,Male,Old Sangavi,3:00 PM,2:15 PM,,11:30 PM,Other,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+,,,,,,,,,,,
+126673,Chinmay Kubde,Male,Pimpri (H A),3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+1078868,Kubde Chinmay,Male,Pimpri,3:00 PM,1:55 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+5547763,Chandan Karla,Male,Pimpri,3:00 PM,2:00 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Naresh Lahori
+1092183,Udasi Pavan K,Male,Pimpri Gaon,3:00 PM,2:05 PM,,11:30 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Lahori, Naresh"
+141871,Sharma Rohit,Male,Pimpri Gaon,3:00 PM,2:10 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+100869,Naresh Lahori,Male,Pimpri Gaon,3:00 PM,2:15 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Naresh Lahori
+,,,,,,,,,,,
+5542791,Chowdhury Subha,Male,Bhumker Chowk,3:00 PM,2:00 PM,,11:30 PM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+5236310,Das Rima,Female,Wakad,3:00 PM,2:10 PM,,11:30 PM,GFO,WE1 - Pune,"Bhakta, Niharika","Kulkarni, Swaroop"
+126830,Deepa Chindeliya,Female,Wakad,3:00 PM,2:15 PM,,12:00 AM,PTDS,WE1 ,Deepa Chindeliya,Vincent John
+1078326,Peter Abraham,Male,WAKAD,3:00 PM,2:20 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand",
+,,,,,,,,,,,
+5370355,Pratik Karkhanis,Male,Bhumker Chowk,3:00 PM,2:15 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Shreyas Nagar
+101598,Mrinalini Gill,Female,Wakad,3:00 PM,2:20 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Abraham Peter
+143731,Farhan Khan,Male,Wakad,3:00 PM,2:25 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Swaroop Kulkarni
+1091391,Khan Farhan,Male,Wakad,3:00 PM,2:30 PM,,1:30 AM,GFO,WE1 - Pune,"Kanthi, Shivanand","Kulkarni, Swaroop"
+,,,,,,,,,,,
+5200490,"Kshama Sambhus, Kshama",Female,Talegaon Dabhade,3:00 PM,1:45 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Abraham Peter
+5552443,Mamta Jadhav,Female,Talegaon Dabhade,3:00 PM,1:50 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Shreyas Nagar
+,,,,,,,,,,,
+101986,Ayub Dange,Male,Dehu Road,3:00 PM,2:00 PM,,11:30 PM,GFO,WE1 ,Shivanand Kanthi,Swaroop Kulkarni
+101340,Paul Sanjiv Kumar,Male,Dehu Road,3:00 PM,2:05 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Peter, Abraham"
+144724,Gladys John,Female,Dehu Road,3:00 PM,2:10 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Shreyas Nagar
+,,,,,,,,,,,
+1078364,Koyi Venkata  Ramakrishna,Male,NEW SANGVI,3:00 PM,2:25 PM,,11:30 PM,GFO,WE1 - Pune,"Mujumdar, Harshad","Lahori, Naresh"
+5545191,Bugade Ashish,Male,NEW SANGVI,3:00 PM,2:30 PM,,11:59 PM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+5549619,Kulkarni Pallavi,Female,NEW SANGVI,3:00 PM,2:35 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+5552685,Sivaraj Anitha,Female,NEW SANGVI,3:00 PM,2:40 PM,,11:59 PM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+,,,,,,,,,,,
+1078325,Shreyas Nagar,Male,Pimple Saudagar,3:00 PM,2:35 PM,,11:30 PM,GFO,WE1 ,Harshad Mujumdar,Satish Kumar
+,,,,,,,,,,,
+5488546,Vikanksha Goley,Female,Baner Road,3:00 PM,2:30 PM,,12:00 AM,Capital Market,WE1,Hetal Petigara,Hetal Petigara
+,,,,,,,,,,,
+5542649,Sindhi Geeta,Female,Balewadi,3:00 PM,2:15 PM,,11:59 PM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+5549817,Singh Dhirendra,Male,Baner,3:00 PM,2:20 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+5488556,Dalvi Mamta,Female,Baner,3:00 PM,2:25 PM,,11:30 PM,GFO,WE1 - Pune,"Kanthi, Shivanand","Peter, Abraham"
+5343156,Madhu Pokale,Female,Baner,3:00 PM,2:30 PM,,11:30 PM,GFO,WE1 ,Niharika Bhakta,Swaroop Kulkarni
+,,,,,,,,,,,
+E1077901,Swapnil Rajgure,Male,Wagholi,5:00 PM,3:55 PM,,02:00PM,Global Trading,WE1 ,Sagar Kute,Rupak Kulkarni
+,,,,,,,,,,,
+5542584,Sameer Patil,Male,Kharadi,5:00 PM,3:55 PM,,2:00 AM,MITS,WE1 ,Sachin Laturkar,Shishir Shambharkar
+102147,Viral Parikh,Male,Kharadi,5:00 PM,3:50 PM,,2:00 AM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+5201073,Animesh Mishra,Male,Wadgaon Sheri,5:00 PM,4:00 PM,,2:00 AM,HRIS,WE1 ,Saurabh Phadke,Satish Patel
+,,,,,,,,,,,
+1081755,Kishore Pallavi,Female,Lohegaon,5:00 PM,3:50 PM,,2:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+5549829,Kumar Vinod,Male,Dhanori,5:00 PM,3:55 PM,,2:00 AM,MITS,WE1 - Pune,"Kute, Sagar","Kulkarni, Rupak"
+E5549829,Vinod Kumar,Male,Dhanori,5:00 PM,4:00 PM,,2:00 AM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+,,,,,,,,,,,
+5552170,James Mendonca,Male,Magarpatta city Hadpsar,5:00 PM,3:45 PM,,2:00 AM,OMNI-SL BPO,WE1 ,Ganesh Giri,Juliet Kishore
+,,,,,,,,,,,
+1078746,Jadi Sunil,Male,Dhanakwadi,5:00 PM,3:45 PM,,2:00 AM,MITS,WE1 - Pune,"Laturkar, Sachin","Junagade, Rajesh O"
+142679,Misal Khushal G,Male,Katraj,5:00 PM,3:45 PM,,2:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+1077286,Kadam Prasanna,Male,Parvati,5:00 PM,4:00 PM,,2:00 AM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+,,,,,,,,,,,
+132997,Sirisha Khare,Female,UNDRI,5:00 PM,3:45 PM,,2:00 AM,MITS,WE1 ,Sachin Laturkar,Rajesh Junagade
+,,,,,,,,,,,
+E1086346,Suprit Chindhodikar,Male,Shukrawar Peth,5:00 PM,4:10 PM,,2:00 AM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+,,,,,,,,,,,
+1077780,Basantani Vikram,Male,Narhe,2:00 PM,3:40 PM,,11:00 PM,MITS,WE1 - Pune,"Kute, Sagar","Kulkarni, Rupak"
+E1077780,Vikram Basantani,Male,Nahre,2:00 PM,3:45 PM,,11:00 PM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+1078179,Sawant Vyankatrao,Male,Dhayari,5:00 PM,3:50 PM,,2:00 AM,Brass,WE1 - Pune,"Desai, Geet","Desai, Geet"
+5201491,Sawner Krishna,Male,Warje,5:00 PM,4:00 PM,,2:00 AM,M-Ops,WE1 - Pune,"Parakh, Amol","Gaikwad, Tina"
+,,,,,,,,,,,
+1086443,Raut Amol S,Male,Kothrud,5:00 PM,4:00 PM,,2:00 AM,MITS,WE1 - Pune,"Laturkar, Sachin","Shambharkar, Shishir"
+142540,Amol S Raut,Male,Paud Road,5:00 PM,4:05 PM,,2:00 AM,MITS,WE1,Sachin Laturkar,Shishir Shambharkar
+E1077407,Kapil Gandhi,Male,Sus Gaon,5:00 PM,4:15 PM,,2:00 AM,Omni,WE1 ,Vinod Asalkar,Shishir Shambharkar
+1081754,Tamhane Devendra,Male,Pashan,5:00 PM,5:25 PM,,2:00 AM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+,,,,,,,,,,,
+5489121,Kushagra Gupta,Male,Hinjewadi,5:00 PM,4:15 PM,,2:00 AM,Brass,WE1 ,Geet Desai,Geet Desai
+143596,Neha Kochey,Female,Hinjewadi,5:00 PM,12:00 AM,,2:00 AM,,WE1,,Arti Bendre
+1087631,Banik Amit,Male,Hinjewadi,5:00 PM,4:10 PM,,2:00 AM,MITS,WE1 - Pune,"Laturkar, Sachin","Kumar, Dilip"
+E1078103,Dhananjay Bhadge,Male,Wakad,5:00 PM,4:10 PM,,2:00 AM,"Professional Service (Market Map, Finance)",WE1 ,Rahul Kumthekar,Arup Pahari
+,,,,,,,,,,,
+5489042,Anshuman Gupta,Male,Pimple Nilakh,5:00 PM,4:30 PM,,2:00 AM,WSC,WE1,Gautam Vegad,Sandip Phatangre
+143369,Saurabh Sharma,Male,Pimple Nilakh,5:00 PM,4:25 PM,,2:00 AM,MITS,WE1 ,Sandip Phatangare,Gautam Vegad
+,,,,,,,,,,,
+1078174,Rohit Tiwari,Male,Akrudi,5:00 PM,4:10 PM,,2:00 AM,Brass,WE1 ,Geet Desai,
+143414,Kadam Mahendra,Male,Nigdi,5:00 PM,4:00 PM,,2:00 AM,M-Ops,WE1 - Pune,"Parakh, Amol","Bhat, Ajay"
+1077662,Mandar Phansalkar,Male,Kalewadi Phata ,5:00 PM,4:20 PM,,2:00 AM,MITS,WE1 ,Sachin Laturkar,Rajesh Junagade
+,,,,,,,,,,,
+1081753,Nandgaonkar Parikshit C,Male,Chinchwad,5:00 PM,4:00 PM,,2:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+5559124,Momin Naved,Male,Chinchwad,5:00 PM,4:05 PM,,2:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+5556938,Nalawade Swapnil,Male,Chinchwad,5:00 PM,4:10 PM,,2:00 AM,OMNI-SL BPO,WE1 ,Ganesh Giri,Juliet Kishore
+5554641,Baby Prince,Male,Kalewadi,5:00 PM,4:20 PM,,2:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+,,,,,,,,,,,
+100877,Rakesh Kumar Jha,Male,Chikhli,5:00 PM,4:00 PM,,2:00 AM,SGN-FBSS ,WE1 ,Rakesh Jha,Sachin Gaikwad
+143500,Sujin Panicker,Male,Dapodi,5:00 PM,4:15 PM,,2:00 AM,WRA,WE1 ,Chandrashekhar shetty,Geeta Prabhu
+,,,,,,,,,,,
+5398463,Priya Shrivastava,Female,Pimple Saudagar,5:00 PM,4:30 PM,,2:00 AM,M-Ops,WE1 ,Amol Parakh,Ajay Bhat
+5265305,Singh3 Manjot,Male,Pimple Saudagar,5:00 PM,12:25 PM,,2:00 AM,HRIS Help desk,WE1 - Pune,"Phadke, Saurabh D","Patel, Satish"
+,,,,,,,,,,,
+1087415,Jaiswal Prashant,Male,Balewadi,5:00 PM,4:15 PM,,4:00 AM,Brass,WE1 - Pune,"Desai, Geet","Desai, Geet"
+E5559122,Shahbaz Barbhuiya,Male,Baner Road,5:00 PM,4:25 PM,,2:00 AM,MITS,WE1 ,Vivek Chaudhari,Rupak Kulkarni
+E1078129,Abhishek Nehe,Male,Baner,5:00 PM,4:30 PM,,2:00 AM,Professional Services (Market Map Financial),WE1,Rahul Kumthekar,Arup Pahari
+,,,,,,,,,,,
+143723,Rajesh Ambekar,Male,Kharadi,6:00 PM,5:00 PM,,3:00 AM,GL Trade - Market Map,WE1 ,Gaurav Agarwal,Mukundraj Khardoskar
+100247,Dilip Kumar,Male,Khadki Station,6:00 PM,5:25 PM,,3:00 AM,MITS,WE1 ,Sachin Laturkar,Rajesh Junagade
+,,,,,,,,,,,
+1078491,Ajay Vishwakarma,Male,Tingre Nagar (Vishrantwadi),6:00 PM,5:25 PM,,3:00 AM,MITS,WE1,Alkesh.Barapatre,Ankush Banasure
+,,,,,,,,,,,
+1086291,Pore Kiran,Male,Yewalewadi,6:00 PM,4:30 PM,,3:00 AM,Investran,WE1 - Pune,"Pereira, Xavier","Deshpande, Dwarkadhish"
+5453398,Datir Sandeep,Male,Wanowrie,6:00 PM,4:40 PM,,3:00 AM,MITS,WE1 - Pune,"Sharma, Aniket","Vegad, Gautam"
+,,,,,,,,,,,
+1092089,Giri Ganesh,Male,Hadapsar,6:00 PM,4:35 PM,,3:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+143972,Ganesh Giri,Male,Hadapsar,6:00 PM,4:30 PM,,3:00 AM,OMNI-SL BPO,WE1 ,Ganesh Giri,Juliet Kishore
+126412,Gaurav Agarwal,Male,Hadapsar,6:00 PM,4:40 PM,,3:00 AM,GL Trade - Market Map,WE1 ,Gaurav Agarwal,Mukundraj Khardoskar
+,,,,,,,,,,,
+5489140,Inani Mohit,Male,Dhayari,6:00 PM,4:35 PM,,3:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+1081757,Jain Ronak,Male,Karve Nagar,6:00 PM,4:50 PM,,3:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+125669,Ronak Jain,Male,Karve Nagar,6:00 PM,5:00 PM,,3:00 AM,OMNI-SL BPO,WE1 ,Ganesh Giri,Juliet Kishore
+5550605,Pathre Rohit,Male,Aundh,6:00 PM,5:05 PM,,3:00 AM,WRA,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+,,,,,,,,,,,
+124943,David Louiza,Female,Nigdi,6:00 PM,5:00 PM,,3:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kumar, Ravinder"
+5548946,Tikvah Bhakre,Female,Chinchwad,6:00 PM,5:10 PM,,3:00 AM,OMNI-SL BPO,WE1 ,Ganesh Giri,Juliet Kishore
+,,,,,,,,,,,
+5556791,Choudhary Monika,Female,Wakad,6:00 PM,5:20 PM,,3:00 AM,Protegent PSV,WE1 - Pune,"Phatangare, Sandip","Phatangare, Sandip"
+1081752,Ravinder Kumar,Male,Wakad,6:00 PM,5:25 PM,,5:00 AM,OMNI-SL BPO,WE1 ,Ganesh Giri,Juliet Kishore
+,,,,,,,,,,,
+5377849,Barik Anurag,Male,Pimple Saudagar,6:00 PM,5:10 PM,,OFF,MITS,WE1 - Pune,"Kute, Sagar","Kulkarni, Rupak"
+5377595,Arora Ruchika,Female,Pimple Saudagar,6:00 PM,5:15 PM,,3:00 AM,MITS,WE1 - Pune,"Sharma, Aniket","Punjabi, Deepak N"
+5548177,Deepak Sonawane,Male,NEW SANGVI,6:00 PM,5:25 PM,,3:00AM,MITS,WE1 ,Aniket Sharma,Gautam Vegad
+,,,,,,,,,,,
+5551082,Dinesh Chaudhari,Male,Pimple Gurav,6:00 PM,5:20 PM,,3:00 AM,GL Trade - Market Map,WE1 ,Gaurav Agarwal,Mukundraj Khardoskar
+5551028,Ganesh Pawar ,Male,Pimple Gurav,6:00 PM,5:20 PM,,3:00AM,IMS- GMI,WE1 ,Sandip Phatangare,Gautam Vegad
+,,,,,,,,,,,
+E5553132,Ramu Patil,Male,Kharadi,6:30 PM,5:00 PM,,3:30 AM,MarketMap Energy,WE1 ,Manas Reja,Arti Bendre
+,,,,,,,,,,,
+112273,Santosh Surve,Male,Kalas,6:30 PM,5:20 PM,,3:30 AM,Global Trade - MarketMap,WE1 ,Santosh Surve,Mukundraj Kharosekar
+,,,,,,,,,,,
+141506,Pavan Kakarla,Male,Dhanori,7:00 PM,6:00 PM,,4:00 AM,Brass,WE1 ,Geet Desai,
+E5551610,Gourav Songara,Male,Vishrantwadi,7:00 PM,6:10 PM,,4:00 AM,MITS,WE1 ,Vivek Chaudhari,Rupak Kulkarni
+,,,,,,,,,,,
+5543764,Raut Stawan,Male,Undri,7:00 PM,6:00 PM,,4:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+5555758,Shete Ashutosh,Male,Wanowrie,7:00 PM,6:00 PM,,4:00 AM,OMNI-SL BPO,WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+,,,,,,,,,,,
+5547534,Doshi Ritesh,Male,Hinjewadi,7:00 PM,6:00 PM,,4:00 AM,MITS,WE1 - Pune,"Chaudhari, Vivek","Kulkarni, Rupak"
+,,,,,,,,,,,
+141240,Shetty Santosh,Male,Kharadi,8:00 PM,7:00 PM,,5:00 AM,MITS,WE1 - Pune,"Laturkar, Sachin","Bejgamwar, Pradeep Kumar"
+,,,,,,,,,,,
+143057,Vikash Kumar,Male,Lohegaon,8:00 PM,6:50 PM,,5:00 AM,MITS,WE1 ,Sandeepkumar Behera,Kingshuk Sen
+141119,Sruthi Dyavarishetty,Female,Dhanori,8:00 PM,7:00 PM,,5:00 AM,MITS,WE1 ,Sachin Laturkar,Pradeep Kumar Bejgamwar
+,,,,,,,,,,,
+143097,Nishant Ranjan,Male,Handewadi,8:00 PM,6:30 PM,,5:00 AM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+1066588,Ranjan Nishant (SG),Male,Hadapsar,8:00 PM,4:45 PM,,5:00 AM,MITS,WE1 - Pune,"Kute, Sagar","Kute, Sagar"
+,,,,,,,,,,,
+E1088990,Shams Sureban,Female,Kalyani Nagar,8:30 PM,7:30 PM,,5:30 AM,Omni,WE1 ,Vinod Asalkar,Shishir Shambharkar
+,,,,,,,,,,,
+5405909,Abhishek Dhandare,Male,Wadgaon Sheri,10:00 PM,8:50 PM,,7:00 AM,MITS,WE1,Aniket Sharma,Deepak Punjabi
+142196,Saket Mehta,Male,Viman Nagar,10:00 PM,9:00 PM,,7:00 AM,Avantgard,WE1,Indrayani Yadav,ShamsParvez Ansari
+,,,,,,,,,,,
+E1093529,S. Raghu Pavan Reddy,Male,Dhanori,10:00 PM,8:50 PM,,7:00 AM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+,,,,,,,,,,,
+1077820,Zeeshan Husain,Male,Kondhwa Khurd,10:00 PM,8:40 PM,,7:00 AM,MITS,WE1 ,Prashant Bharambe,Mahendra Gavhane
+,,,,,,,,,,,
+5555759,Nilesh Gore,Male,Kalepadal,10:00 PM,8:45 PM,,7:00 AM,SSB,WE1,Pankaj Yadav ,Shekhar Muley
+,,,,,,,,,,,
+143497,Aniket Sharma,Male,Nanded City,10:00 PM,8:50 PM,,7:00 AM,MITS,WE1 ,Aniket Sharma,Deepak Punjabi
+1077827,Sachin Sonawane,Male,"DSK Vishwa,Dhayari",10:00 PM,8:55 PM,,7:00 AM,MITS,WE1,Dhananjay Borate,Mahendra Gavhane
+E1095580,Dibaditya Seal,Male,Aundh Gaon,10:00 PM,9:30 PM,,7:00 AM,MITS,WE1 ,Abhinav Agarwal,Abhinav Agarwal
+,,,,,,,,,,,
+E5399483,Ameya Bhogaonakar,Male,Kothrud Depo,10:00 PM,12:00 AM,,7:00 AM,GMI,WE1 ,Abhinav Agarwal,Gautam Vegad
+144234,Indrajeet Chandora,Male,Kothrud,10:00 PM,5:00 AM,,7:00 AM,MITS,WE1 ,Alkesh Barapatre,Ankush Banasure
+1093476,Kalagi Saurabh S,Male,Kothrud,10:00 PM,8:50 PM,,7:00 AM,Corporate Digital Solutions,WE1 - Pune,"Yadav, Indrayani B","Ansari, Shamsparvez"
+144630,Nasir Hussen Mulla,Male,Kothrud,10:00 PM,9:00 PM,,7:00AM,Avantgard,WE1 ,ShamsParvez Ansari,ShamsParvez Ansari
+,,,,,,,,,,,
+5557085,Akash Varshney,Male,Hinjewadi Phase 1,10:00 PM,9:10 PM,,7:00 AM,APAC operations,WE1,Shantesh Kulkarni,Prashant Mane
+144930,Anuj Porwal,Male,Hinjewadi,10:00 PM,12:40 PM,,7:00 AM,MITS,WE1,Aniket Sharma,Deepak Punjabi
+5543997,Prithviraj Yavdav,Male,Hinjewadi,10:00 PM,9:15 PM,,5:00 AM,MITS,WE1 ,Abhinav Agarwal,Gautam Vegad
+,,,,,,,,,,,
+1077242,Sathish Arathy,Female,Tathwade,10:00 PM,4:10 PM,,7:00 AM,HRIS Help desk,WE1 - Pune,"Phadke, Saurabh D","Patel, Satish"
+E1077769,Sairam Mhandadi,Male,Wakad,10:00 PM,9:25 PM,,7:00 AM,Global Trading,WE1 ,Sagar Kute,Rupak Kulkarni
+1094981,Kakade Swati,Female,Pimple Nilakh,10:00 PM,4:30 PM,,7:00 AM,HRIS Help desk,WE1 - Pune,"Phadke, Saurabh D","Patel, Satish"
+,,,,,,,,,,,
+143150,Amol Shete,Male,Chikhli,10:00 PM,5:30 AM,,7:00 AM,MITS,WE1,Pushpendra Bajpai,Srinivas Reddy
+1095732,Prateek Babelay,Male,NEW SANGVI,10:00 PM,9:25 PM,,7:00 AM,MITS,WE1 ,Saurabh Khanapure,Mahendra Gavhane
+,,,,,,,,,,,
+5201097,Chejara Sumit,Male,Pimple Saudagar,10:00 PM,4:20 PM,,7:00 AM,HRIS Help desk,WE1 - Pune,"Phadke, Saurabh D","Patel, Satish"
+,,,,,,,,,,,
+142812,Abhijit Deshpande,Male,Aundh,Only Drop,,,11:00 PM,Other,WE1,Ranadhir Ghosh,Ranadhir Ghosh
+1077358,Prashant Shetty,Male,Wakad,Only Drop,,,3:30 PM,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+103157,Harsh Gaurav,Male,NEW SANGVI,Only Drop,,,3:00 AM,GL Trade - Market Map,WE1 ,Gaurav Agarwal,Mukundraj Kharosekar
+,,,,,,,,,,,
+5543707,Sunil Jaglan,Male,Hinjewadi,OFF,,,OFF,SGN - FBSS,WE1 ,Nancy Dass,Rohan Patel
+127128,Vishal Pargaonkar ,Male,Tingre Nagar,OFF,,,OFF,Omni,WE1 ,Shripad/Vinod Asalkar,Shishir Shambharkar
+141118,Tejaswi Bachu,Female,Yewalewadi,OFF,,,OFF,MITS,WE1 ,Sachin Laturkar,Pradeep Kumar Bejgamwar
+ E5542799,Gajanan Haran,Male,Dhanakwadi,OFF,,,OFF,Global Trading,WE1 ,Sagar Kute,Rupak Kulkarni
+100812,Rockesh Avhad,Male,Sinhagad Road,OFF,,,OFF,Intrader,WE1,Zeeshan Husain,Mahendra Gavhane
+1077838,Saurabh Khanapure,Male,Kothrud,OFF,,,OFF,MITS,WE1 ,Prashant Bharambe,Mahendra Gavhane
+142136,Sharja Dandge,Female,Nigdi,OFF,,,OFF,MITS,WE1 ,Sachin Laturkar,Pradeep Kumar Bejgamwar
+1088381,Singh Rahul,Male,Pimple Nilakh,OFF,,,OFF,PTDS_APAC Client Services,WE1 - Pune,"Acharya, Archana","Bhide, Rahul"
+1080131,Acharya Archana,Female,Ravet,OFF,,,OFF,PTDS_APAC Client Services,WE1 - Pune,"Acharya, Archana","Menon, Anoop"
+5548598,Suraj Nalage,Male,NEW SANGVI,OFF,,,OFF,PTDS_APAC Client Services,WE1 ,Akshay Sidhaye,Rahul Bhide
+1077778,Kumar Abhishek,Male,Kharadi,OFF,,,OFF,MITS,WE1 - Pune,"Kute, Sagar","Kulkarni, Rupak"
+143817,Mithun Khivesara,Male,Bibwewadi,OFF,,,OFF,MITS,WE1,"Barapatre, Alkesh D","Banasure, Ankush P"
+E1077781,Ranjan Targaonkar,Male,Warje,OFF,,,OFF,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+102589,Chandan Kumar,Male,Hinjewadi Phase 3,OFF,,,OFF,MITS,WE1,Pushpendra Bajpai,Srinivas Reddy
+5433194,Shreyans Surana,Male,Chinchwad Station,OFF,,,OFF,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+5548687,Avinash Pardhi,Male,Dange Chowk,OFF,,,OFF,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+E1077782,Shraddha Dehankar,Female,Pimple Gurav,OFF,,,OFF,Global Trading,WE1 ,Sagar Kute,Rupak Kulkarni
+E5548493,Nikhil Nirbhavane,Male,Yerwada,OFF,,,OFF,MITS,WE1,Pushpendra Bajpai,Srinivas Reddy
+E5487762,Ninad Nigade,Male,Vishrantwadi,OFF,,,OFF,MITS,WE1,Pushpendra Bajpai,Srinivas Reddy
+103630,Joel Dhavale,Male,Sus Gaon,OFF,,,OFF,MITS,WE1 - Pune,"Laturkar, Sachin","Bejgamwar, Pradeep Kumar"
+142763,Rameez Khan,Male,Chinchwad,OFF,,,OFF,Stream,Westend Centre One,Srinivas Reddy,Srinivas Reddy
+5551041,Vishnu Bhosale,Male,Dange Chowk,OFF,,,OFF,Stream,Westend Centre One,Srinivas Reddy,Srinivas Reddy
+127002,Debasish Parida,Male,Kaspate vasti,OFF,,,OFF,Stream,Westend Centre One,Srinivas Reddy,Srinivas Reddy
+143705,Rohit Agarwal,Male,Pimpri,OFF,,,OFF,Avantgard,WE1 ,Yadav Indrayani,Shamsparvez Ansari
+100113,Satish Gummadi,Male,Viman Nagar,OFF,,,OFF,MITS,WE1 ,Sachin Ambre,Mahendra Gavhane
+1078750,Bejgamwar Pradeep Kumar,Male,Dhanori,OFF,,,OFF,MITS,WE1 - Pune,"Laturkar, Sachin","Junagade, Rajesh O"
+1088676,Vaibhav Ahire,Male,Vishrantwadi,OFF,,,OFF,MITS,WE1 ,Aniket Sharma,Gautam Vegad
+E1077203,Nazrul Patwari,Male,Kondhwa Bk,OFF,,,OFF,SGN-FBSS,WE1 ,Nazrul Patwari,ROHAN PATEL
+e1078222,Wasim Mankar,Male,Kondhwa,OFF,,,OFF,Global Trade - MarketMap,WE1 ,Santosh Surve,Mukundraj Kharosekar
+1077000,Agrawal Amit A,Male,Magarpatta City,OFF,,,OFF,Brass,WE1 - Pune,"Desai, Geet","Kulkarni, Rohit"
+1077263,Wangikar Pranil,Male,Bavdhan,OFF,,,OFF,IMS- GMI,WE1 - Pune,"Agarwal, Abhinav","Vegad, Gautam"
+111860,Saransh Jain,Male,Bavdhan,OFF,,,OFF,MITS,WE-1,Aniket Sharma,Deepak Punjabi
+1095795,Hema Iyer,Female,Bavdhan,OFF,,,OFF,RIM,WE1 - Pune,"Phadke, Saurabh D","Patel, Satish"
+E5488032,Ishmandir Singh,Male,Balewadi,OFF,,,OFF,MITS,WE1,Pushpendra Bajpai,Srinivas Reddy
+5546421,Pathak Sumit,Male,Wadgaon Sheri,OFF,,,OFF,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Sinha, Puneet"
+5489050,Chavan2 Somnath,Male,Narhe,OFF,,,OFF,WRA,WE1 - Pune,"Saple, Siddharth","Tandale, Rahul"
+5551044,Varma Krishna,Male,Kothrud,OFF,,,OFF,iWORKS BPaaS,WE1 - Pune,"Gawali, Pranil","Bhatia, Pankaj"
+E1078477,Javed Pathan,Male,Nigdi Pradhikaran,OFF,,,OFF,MITS,WE1 ,Alkesh Barapatre,Ankush Banasure
+1078477,Pathan Javed R,Male,Nigdi,OFF,,,OFF,MITS,WE1 - Pune,"Barapatre, Alkesh D","Banasure, Ankush P"
+100809,Sagar Kute,Male,Nigdi,OFF,,,OFF,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+5515064,Rachit Jain,Male,Thergaon,OFF,,,OFF,Global Plus,WE1 ,Siddharth Saple,Rahul Tandale
+5487784,Kamisetty S B S Himavanth Rao,Male,Rahatani,OFF,,,OFF,MITS,WE1 - Pune,"Laturkar, Sachin","Junagade, Rajesh O"
+142304,Divyanirosha A S,Female,Wakad,OFF,,,OFF,MITS,WE1 ,SACHIN LATURKAR,Rajesh Junagade
+124337,Jha Ashish,Male,Pimple Nilakh,OFF,,,OFF,MITS,WE1 - Pune,"Sharma, Aniket","Punjabi, Deepak N"
+5542376,Malik Kashish,Female,Pimple Nilakh,OFF,,,OFF,Corporate Digital Solutions,WE1 - Pune,"Ambulkar, Parag","Ansari, Shamsparvez"
+5548226,Saji Jasmin,Female,Baner,OFF,,,OFF,M-Ops,WE1 - Pune,"Parakh, Amol","Gaikwad, Tina"
+1078428,Bhoite Shital S,Female,Karve Nagar,OFF,,,OFF,Corporate Digital Solutions,WE1 - Pune,"Yadav, Indrayani B","Ansari, Shamsparvez"
+5558839,Shaikh Mohsin,Male,Kondhwa,OFF,,,OFF,GFO,WE1 - Pune,"Kanthi, Shivanand","Peter, Abraham"
+1087533,Tridip Sarma,Male,Pimple saudagar,OFF,,,OFF,SSF,WE1 ,Hetal Petigara,Vinayak Shelke
+1091242,Patwa Pratik,Male,Warje,OFF,,,OFF,Corporate Digital Solutions,WE1 - Pune,"Yadav, Indrayani B","Ansari, Shamsparvez"
+1078482,Pillai Sarath,Male,Talegaon Dabhade,OFF,,,OFF,Investran,WE1 - Pune,"Barapatre, Alkesh D","Banasure, Ankush P"
+5555175,Kaushal Khadse,Male,Aundh,OFF,,,OFF,PTDS,WE1,Archana Acharya,Rahul Bhide
+143849,Parashar Nath,Male,Wagholi,OFF,,,OFF,Brass,WE1 ,Geet Desai,
+E5548820,Partha Nandi,Male,Wagholi,OFF,,,OFF,MITS,WE1 ,Vivek Chaudhari,Rupak Kulkarni
+5550915,Singhi Deepak,Male,Khadki,OFF,,,OFF,PTDS_APAC Client Services,WE1 - Pune,"Acharya, Archana","Menon, Anoop"
+E1081175,Harshvardhan Agarwal,Male,Kharadi,OFF,,,OFF,Statutory Financial Reporting,WE1 ,Gaurav Inani,Gaurav Inani
+1077823,Bajpai Pushpendra,Male,Wadgaon Sheri,OFF,,,OFF,Capital Market,WE1 - Pune,"Bajpai, Pushpendra","Gavhane, Mahendra"
+144527,Shubham Gupta,Male,Chandan Nagar,OFF,,,OFF,Avantgard,WE1 ,ShamsParvez Ansari,ShamsParvez Ansari
+5553692,Biswal Niroj,Male,Dhanori,OFF,,,OFF,AATA (InvestarONE),WE1 - Pune,"Giri, Ganesh","Kishore, Juliet"
+1078550,Dhotre Aparna,Female,Dhanori,OFF,,,OFF,AATA (InvestarONE),WE1 - Pune,"Borse, Nimba","Borse, Nimba"
+E5228278,Preeti Wadhwani,Female,Balewadi Stadium,OFF,,,OFF,Statutory Financial Reporting,WE1 ,Anuj Agarwal,Gaurav Inani
+E5551823,Kunal Naryani,Male,Balewadi Stadium,OFF,,,OFF,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+141900,Amalraj Nair,Male,Kasarwadi,OFF,,,OFF,GFO,WE1,Shivanand Kanthi,Abraham Peter
+123631,Sachin Bhomale,Male,Dighi,OFF,,,OFF,MITS,WE1 ,Alkesh Barapatre,Ankush Banasure
+1078406,Inayat Kazi,Male,Kondhwa,OFF,,,OFF,CDS,WE1 ,Parag Ambulkar,Parag Ambulkar
+5487761,Raut Shridhar,Male,NIBM Road,OFF,,,OFF,MarketMap,WE1 - Pune,"Kute, Sagar","Kulkarni, Rupak"
+5545950,Kishor Bhosale,Male,Keshav nagar,OFF,,,OFF,M-Ops,WE1 ,Amol Parakh,Ajay Bhat
+E1095460,Shishir Shriwastav,Male,Ghorpadi Gaon,OFF,,,OFF,MITS,WE1 ,Sagar Kute,Rupak Kulkarni
+5558239,Yadav Sangeeta,Female,Koregaon Park,OFF,,,OFF,WRA,WE1 - Pune,"Saple, Siddharth","Tandale, Rahul"
+143181,Nikhil Dhule,Male,Wadgoan khurd,OFF,,,OFF,SSB,WE1 ,Pankaj Yadav ,Shekhar Muley
+101726,Vaibhav Wad,Male,Warje,OFF,,,OFF,,,,
+E5285498,Manasi Padhye,Female,Warje,OFF,,,OFF,Statutory Financial Reporting,WE1 ,Manasi Padhye,Manasi Padhye
+E5544945,Saurabh Thakur,Male,Kothrud Depo,OFF,,,OFF,Global Trading,WE1 ,Sagar Kute,Rupak Kulkarni
+1087694,Saurabh Phadke,Male,Kothrud,OFF,,,OFF,HRIS,WE1 ,Saurabh Phadke,Satish Patel
+E5549870,Ajinkya Gujrathi,Male,Kothrud,OFF,,,OFF,"Global Trading, Capital Markets",WE1,Shantesh Kulkarni,Shantesh Kulkarni
+102581,Sushant Pawar,Male,Kothrud,OFF,,,OFF,Brass,WE1 ,Rohit Kulkarni,Akshay Limaye
+55236343,Atish Nilakhe,Male,Kothrud,OFF,,,OFF,MITS,WE1 ,Gautam Vegad,Gautam Vegad
+5433212,Saurabh Kakade,Male,Pashan,OFF,,,OFF,MITS,WE1 ,Sachin Laturkar,Pradeep Kumar Bejgamwar
+5555289,Koushik Roy,Male,Bavdhan,OFF,,,OFF,OMNI-SL BPO,WE1 ,Ganesh Giri,Juliet Kishore
+e1087380,Tejashree Aringle,Female,Aundh,OFF,,,OFF,Global trading - market map,WE1 ,gaurav agrawal,mukundraj Kharosekar
+1092064,Aishwary Arora,Female,Aundh,OFF,,,OFF,Intellimatch,WE1,Nisha Abraham,Kaustubh Vaitee
+1078097,Tholar VIKAS,Male,Bhumker Chowk,OFF,,,OFF,GL Trade - Market Map,WE1 - Pune,"Bendre, Arti","Bendre, Arti"
+5549620,Verma Pratik,Male,Tathwade,OFF,,,OFF,GFO,WE1 - Pune,"Kanthi, Shivanand","Paul, Sanjiv Kumar"
+E1078430,Gaurav Upadhyaya,Male,Pimple Nilakh,OFF,,,OFF,Avantgard,WE1,ShamsParvez Ansari,ShamsParvez Ansari
+1077896,Pratik Nimodia,Male,Nigdi Pradhikaran,OFF,,,OFF,IntelliMatch,WE1 ,Nisha Abraham,Kaustubh Vaitee
+1086300,Srishti Rautela,Female,Wakad,OFF,,,OFF,HRIS,WE1 ,Saurabh Phadke,Satish Patel
+1078424,Patil Kamlesh,Male,Wakad,OFF,,,OFF,Corporate Digital Solutions,WE1 - Pune,"Yadav, Indrayani B","Ansari, Shamsparvez"
+1077218,Patil Rugved,Male,Rahatani,OFF,,,OFF,MITS,WE1 - Pune,"Chaudhari, Vivek","Kulkarni, Rupak"
+40451,Waghmare Ganesh,Male,Rahatani,OFF,,,OFF,Corporate Digital Solutions,WE1 - Pune,"Yadav, Indrayani B","Ansari, Shamsparvez"
+5370357,Ashwini Shah,Female,Kalewadi Phata,OFF,,,OFF,GFO,WE1 ,Harshad Mujumdar,Naresh Lahori
+127162,Priyesh Jain,Male,Wakad,OFF,,,OFF,PTDS_APAC Client Services,WE1 ,Archana Acharya,Rahul Bhide
+141449,Manai Telang,Female,Chinchwad Gaon,OFF,,,OFF,Avantgard,WE1 ,Indrayani Yadav,Shams Parvez anasari
+E5542765,Prashant Garudkar ,Male,NEW SANGVI,OFF,,,OFF,MITS,WE1 ,Sagar Kute,Sagar Kute
+127275,Chandrashekhar Shetty,Male,Chikhli Spine Road,OFF,,,OFF,Global Plus,WE1 ,Chandrashekhar shetty,Geeta Prabhu
+102122,Sheeja Vijayan,Female,Pimple Saudagar,OFF,,,OFF,M-Ops,WE1 ,Amol Parakh,Ajay Bhat
+101569,Mangesh Nibandhe,Male,Chinchwad Station,OFF,,,OFF,Iworks,WE1 ,Pranil Gawali,Purushottam Nadar
+1093043,Roshan Shirke,Male,Pimple Gurav,OFF,,,OFF,MarketMap,WE1 ,Aniket Gawade,Prashant Mane
+E5228079,Aniket Joshi,Male,Balewadi,OFF,,,OFF,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+5343597,Anup Panigrahy,Male,Baner,OFF,,,OFF,Utility,WE1,Vikram Singh,Vikram SIngh
+E5547996,Nisha Pandey,Female,Baner,OFF,,,OFF,Statutory Financial Reporting,WE1 ,Praveen Jain,Praveen Jain
+1090177,Niharika Garg,Female,Baner,OFF,,,OFF,SGS,WE1 ,Jaydeep Kunte,Jaydeep Kunte
+125297,Amit Tulankar,Male,Baner,OFF,,,OFF,GFO,WE1,Niharika Bhakta,Swaroop Kulkarni
+E1081418,Deepali Sunthankar,Female,,OFF,,,OFF,Statutory Financial Reporting,WE1 ,,
+E5550726,Durgesh Tiwari,Male,,OFF,,,OFF,Statutory Financial Reporting,WE1 ,,
+E5554542,Gaurav Inani,Male,,OFF,,,OFF,Statutory Financial Reporting,WE1 ,,
+E1081375,Praveen Jain,Male,,OFF,,,OFF,Statutory Financial Reporting,WE1 ,,
+E1081417,Shobhit Jain,Male,,OFF,,,OFF,Statutory Financial Reporting,WE1 ,,
