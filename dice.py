@@ -1,5 +1,7 @@
 import random
 
+"""This is the fucntion to generate random numbers"""
+
 while True:
     choice=input("Do you want to roll dice? ")
     if choice == 'yes':
